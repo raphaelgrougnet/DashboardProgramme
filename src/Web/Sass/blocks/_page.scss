@@ -1,0 +1,15 @@
+.page {
+  padding: 24px 0;
+  min-height: calc(100vh);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  @include defaultBgImage();
+  background-color: $color-green;
+  background-position: right bottom;
+  background-size: 150%;
+
+  &::before {
+    background: linear-gradient(0, transparent, $color-green);
+  }
+}

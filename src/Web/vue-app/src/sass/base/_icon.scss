@@ -1,0 +1,71 @@
+/* icon */
+.icon {
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-decoration: inherit;
+  text-align: center;
+  text-transform: none;
+  display: inline-block;
+  line-height: inherit;
+  width: 1rem;
+  height: 1rem;
+  speak: none;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0;
+  transition: transform 0.2s cb(snappy), width 0.2s cb(snappy);
+  flex-shrink: 0;
+
+  * {
+    transition: fill 0.2s cb(snappy);
+  }
+
+  //Colors -------------------------
+  &--white {
+    * {
+      fill: $color-white;
+    }
+  }
+
+  &--black {
+    * {
+      fill: $color-black;
+    }
+  }
+
+  &--blue {
+    * {
+      fill: $color-green;
+    }
+  }
+
+  &--grey {
+    * {
+      fill: $color-grey-medium;
+    }
+  }
+
+  &--green {
+    * {
+      fill: $color-green;
+    }
+  }
+
+  //Transforms ---------------------
+  &--rotate-45 {
+    transform: rotate3d(0, 0, 1, 45deg);
+  }
+
+  &--rotate-90 {
+    transform: rotate3d(0, 0, 1, 90deg);
+  }
+
+  &--rotate-180 {
+    transform: rotate3d(0, 0, 1, 180deg);
+  }
+
+  &--rotate-270 {
+    transform: rotate3d(0, 0, 1, 270deg);
+  }
+}

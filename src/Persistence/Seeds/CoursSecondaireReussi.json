@@ -1,0 +1,3594 @@
+[
+  {
+    "Etudiant": "c7ce4dce7c6eba9de62a4211db10f5022a594efbd50ce82b70ad8ad9352882a5",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "0e34bec823e6e49fe488b2505292dac72e8c9319714cec50c02c44f4e003b740",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "10e29fa8c84008efe4f2efaf0248879728a7f7c9441a718d788b169e3047a824",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "a6145635476a7c488def926f40a8db785b6136ac4a774cd3f160b0aa4f020794",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "b0f138f44d694779b85b6e126c84ed73d89f0682130ff5b3a120334cfce12642",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "2acfee075e26afbee78a05d02ff407aba238b02ab1b621700f22fe327320f3fb",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "4b26fe4ea092dbd28eca94b521ebff8d0d5c75b370be14cf76912f3648a2aa6e",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "a9bf9ed2aa1caec42451f7124d656bff121516d73950c758b301e892ada4b01a",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "116fc855090522db851bb1818732ddf31eae6a34ea57ba8060fb1116b4be4b01",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "6c00af6760726759bc06b86cabffd673dcba601ad960c3c19b433f93dabc20d5",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "592f97e64a45d43dae15ea1063e100a23ce033d08dbfa8039a16b13f51980f61",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "f8fa45de18f79589c0846f642efac374a662203b782459dcdda501838ed7283e",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "db23f9b276bd192be08aa77eb5f33ef04d783796d8d3e1f01b6bef69eb65520c",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "c41829d610fae359382ffb842c0df8ec8f9addb561acfb90d75ffe8052851434",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "5662054c40b3b96aea2263279ab48e45e27adb49186fe9cf50d0db564f72440e",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "af81c8fb4df9099a7062fa71a4c99dfe775feb2222d7d74c0ffb3b1a9dc98030",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "850c9804f0a963ec580699e717961d8af479c4e4c6672382623d6965a3d8d381",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "a3c808c01b329d4612137b8b8809d27b318bbb23bf267de2dce04fb7a7834c46",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "249b3dfeb631186fbdb1d82ab02f56e4c699b340b744663c335f773884f9b18d",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "21ea33c969f855264d9aabcef7e6ffb849df4ca7f062d0f8ad2baf449fd43e9f",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "ccc400317c75caa22ebc0554145f6008f86153de99c3fc148d142ef899985b3a",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "f665144ad766771672fdd044b0605c7698a9d741c89c1ad56c89e860ea856c47",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "8bdfb23fc99360d69270dff29f2228e695f3f248b371b835b079560af2716760",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "b50ceabea5fd238b36e77c437fbe87142290a0222c3741299714146f64dd1432",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "43002463e9760c74860bb2fe76c5a4bf0105e6152f50883052e82061e4d85a46",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "531de70681963eb870c30b20c77e73fd5ed3360b885289a1f121a0baf43c903f",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "af7cd417fa7b91ffeb149f152195469276a4543725c17aaeb93fd278aeafe2e3",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "ec08687f3ad87bcf173b7eb4baffb2d201d54607ef61a44f89143f2e382db44c",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "b1531288465ede5132d5b4ec85ef0dde2a3008282460f4e52f208b53f4c4f927",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "42a10f5402a953003f11ffd73291c744870bd90c210cea06509d96e74ae7c9ce",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "d6b42af6cc0d19911b14984dbd8025d8e94a2c7623c63fcaa5f0307af70453f2",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "1c046fc6bb2e9a2cb3bb7c09b60adea6424521d1e0e9437186baf5ed3beab220",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "f69eee202327ed415bf7eed20822fba8c99a8e0d3ea08ad721cbf490977fccdd",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "3409aa413283e449298c8ac585c8298fbb43436977ee603faaf5773b25ce7f5f",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "daba9ec0d9a025f0dc149444d8bff4d9375183a3a8b73b4fbf0e9ccc4cefe02b",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "b01407c9d2a8dda66eab4d23617c6fc50f1e5f33d5693cda2cd9f7d384f8042f",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "bc481e1553ae965cd6421ce48fb5e1a40eae5240a11aaa905c7e948c2fceada3",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "12b03648beb4a5228873e800634287438fcad2872aff66b83f95d7787a059a68",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "368a6bcbbfe539e4422b8067bd373a2ecfe316a15fb07dac8833fd1dd002badc",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "86bf8cce560b2a54a138e8fa3c5da03f0015e7d97170b13a941056acc9c57f88",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "6b77fd95e2012d652a120dc7294e6637997e75e80717348fda93d42008537409",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "61f31cbfbbf625cfdbf3e3b3722fe2bd2ad8883b1196295e8ac5c3761593071a",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "218739ca3c250041080e01df387f713ce963f2f70635cf11ab38ce401ad94fcd",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "91128ac1726261e7a13d870764cb0f11d7d5b97acebe4262504d6160e1808c3e",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "4819d3343e16e22c287627548aa7609b58d88805f8c37b9cc307d874463c2e3a",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "0efe9f0ed5864bdddf20bc4c5c778f474e027d6eb97b31b8c1a5dc34a3a0865e",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "779d9ffcf71024ea5aa60616418b0fd03460c55a7543cdf2f53a326d1c9cb4dc",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "e4977e6cb52c5649cfe78aefc13c3f5c3cfd4a367788e929eee3cf7076cce0ed",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "bc3d47a3fca43a5af46073af4521c55ef80a86d85f857efe4c3afb0d2f08b2b3",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "85824e301a6aa46bcb9321d6bcc8d4d71bb25da907608d934a537bc9f302b68a",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "1309774dba8282ed98963f580cb5d4f9d66178b7b70552e0f3603f63dd6a017b",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "904599b55d698b75de44b6669b196988da7ea0f379a91b9dd8df5d87c46cdf59",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "e02ff6fadfffd7633360c0619c42e0e4d2ba6dc8ad04812667eeafed975d4c1b",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "a4334e7b501c81640bdd786e9338a4a7e603bf8a5cff43b4911eab35b066acc7",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "f400187933071716bad754545a837aa121bb1c492c7fd0efd785604a56306e5f",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "8934fab378dfd36bb39c3332438903b2f6985cedb968c8380c543f6d00efc475",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "c55384d0a258d2edcda4f8e8bd207121aba66964e1a07f918bb89f4d706bf66d",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "ddf7281b7a064193efe26b1e1eac0a73a6f4a65baefd006ec5c15b5a3aeeef92",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "8d98bf59442a0efc8157a772f4e2dd758db3984999ddc5f33f3fc0be6d012e49",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "c546f676ec2f893a253a2d318eafb30418da4fe40bae4e306f36a30788d865f6",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "f01960eded8b6149744a2bd2dc6084707e8ddef00abed0231f244f384bc56365",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "cd781239c5af49ab8d2e0ed537ab58e1a4af08558187a70780451172819f919c",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "4c6bc629bb4fefc200c795e6ef3167fc84d0b17e9dc441eb21373790860b1ad8",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "acf89aba7f0e6c005c1cc7b0521a74d6a4809c4dd180b1b1e5bc5c5dbf8222a6",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "937f9ece0db38e11ef1ed5699b3120fcaf4875986d12518480eb094d60d76184",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "b4b3bfd84165ab103489c27a3839167b45f397a061aea6fcdb29b2469bf9a72d",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "2c3166c4748cacaf4a63093068b4b4d8538048ac49dbafe7f43ef9485b6e4a28",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "ef9a4775186ea01e1832a087c25d0f3e0c7da5552d2c0afddbfd5892862c1ac5",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "a331b865b6a7391a7bdfd1315b39347ae585c900a750b7194c4f2e55417082b1",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "d10b8bcc5286c1ce5598d8f0eb66c41c3fbbc002d82f33a3007129553ee1cd68",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "ddf7281b7a064193efe26b1e1eac0a73a6f4a65baefd006ec5c15b5a3aeeef92",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "d7dabdcc071d33d4f61723aa35cae08625471c67be18415bb44375bbffcc1700",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "684a5e7fd4d40f643115853be6df4eb4696a0e6ae7b8fa157e6197bf27284386",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "671830a4423dc339e8d36e748543b20891a1c4dd0f2d463d6a0a43882c4b5d4a",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "7f44731584e89386c3768ca51574ee47eb9b0c595d130f4924c767879c87ab60",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "dd9fdc38b12f5854a50fc6d320212a9d5d5cf9b915284687eb210bca5ea9e597",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "fde9904e14095d011a3e9dfefdd0687bb1fcb3a26186bd99b63f237b935c76fd",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "7ce3e8d5e94ae7cc86696357a512e4d68584e188a0baa65fca0066d886355510",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "c0616c5253619fda7ae014b8bfe5fccf36cd322ebdc35a31f254b3c800aeed83",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "06a3f03ccf5d95d520120d775f7c9af6742f9eca573dee3b32b2ef6baf9a1809",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "815977b31e44ba1418b51eb3c139588f12ed1dd53e36014a29a2f5ace4ac58a1",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "a3d23cc50673f38812df30c7b1f9ffc49a3188cdadc91a6753a84440df7ed890",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "5dbac37dc8bb45775fe16000382028a5f9971617cd1cc9ee5a3bb6ee7c2406b2",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "d2d5d7f8e720d3a3f1e9a880780ec8fa80f78cf464207603b8d278c3df4d11c8",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "c4f9fd690caeee1c3dd2459e93592d9e1c0258142691ad7d7abf8dbb1e7946e9",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "196ec8f4c400688d2d1149904c60a1c3e7e83307a6472501378a79c94d1000f5",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "0b198c5742871702406611284e034e5eddf50a6470116ce90d2c39126b3b9cc2",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "4ffb1ce5e43a48c11a1bb0e1e59f559b9ac3795d8a9cac825c248fce80403940",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "40d41b47a2a18afa75cf0448560f08b937ee63a05447ae8421018acdec4068d6",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "9c921edcf61d64272c2426d0ad49fdd7c38cbbd5baf3c4093a028585e77fe85a",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "6c4a9c30e1f6ae64100bdb41656b452ca61b68113f510001b4f4816595481eb7",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "f1e87915680dee25ee40daac05083c514e09cc609dc09be72e961d8bc6047067",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "5569938697f2caef79b688e57c267ee3a4cadcc5196bf36b4e5181ae1ed2d673",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "1e712d899b25ff9f307670be365dad59523ca8972df99cddd592860d9f034184",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "61eb588754336a3816ad89ef21094ea6cce10a752a3b6047f613c08e16a1ae65",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "dde3c2eb30ff638d57cdbdc6145ac1f138c6c2ed5fa61f2b48cd9168cd1beb55",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "bb5fc2a0f42929861a43f9c1d287d8bd5ac3a9bd2358e395c610d99d55138b14",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "6276e4278be0ff09a30cae26613483581eef6d93e4b1cad6446819e948a26ac6",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "83a1728d5245d0a38df7319ccdc6a839b28902789681f721f6dcb9d80669b464",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "57d73688da611f0e72265ec3cd87007e7fcd381cb7af05706efe515e3412a910",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "3ceecd230697beac102045eca4a90589173b5e423028ead04f4a9435f28ec452",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "d2d5d7f8e720d3a3f1e9a880780ec8fa80f78cf464207603b8d278c3df4d11c8",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "9f10e6bae1ed87e3867d111408d5f022e852ea13006b8bcd7c93a06740de5115",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "90b5867f64120d5341e29a1b56a979e6f7af1d82b8891eaf5e8508857f5f191c",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "528fd9d312362546359f3c1f569b78d66fb360f45fefd747a63c62e3f95140a1",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "543ec323a72e55cb4045c8c772577d1f010f2f06c82ebfa695c9b665570013c0",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "ba9c68cc5a4ec49bf0c89027ee8db407cc3553a8ac5ec3732e7a2f25d490ee27",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "4a223490a03031e3c026d6d73babacd0ce8d2de2a94652d2b502270b9e0116a7",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "e1d04165a498df462ac7b0a8a29f0ef26908e2c7ada08a06acb16f9d851b80fe",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "788ba48ec2ed09c38d79e23d88eaaf16bb1fc5d12daefa44735ab8ed0dbabe6a",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "e0b88781daccd3de34fa1855839925a33b7e0cd106a9ff74be662dc661d89f14",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "01d25e9a82ef2af8b4e21ec2f5ad6517ec7d5d6c6a298a22489ba9ee1bf7f450",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "86d621eb04983556ae38ecbbf156c39eeb836179addf3274e4889af0f49dd4ad",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "26ce41d37d6c7a0c3a06d3ce8bc9b00c7f17b5c8e9fdf64b92f477eb90f9c393",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "60b27f89a277eb53b89dff040d60520005a0c32190ae204fd626d975e3111d7c",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "79e3d22bfd6184b85ef162b0e2d2f36b56336747ddc4ea3be62e4cf84122be36",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "41c4f620f83b90484215ca50505515ec3ead7e84219f569583e01d39cbb36dd2",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "0bccb15b313e891b4bb3092c476dc11d88a46c00f84c921e71291249f40dee3f",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "b01407c9d2a8dda66eab4d23617c6fc50f1e5f33d5693cda2cd9f7d384f8042f",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "6da274d30c1a3c11e62c3dbcfeeeca24549651fbc911a4c8413b083dd995d9f8",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "4819d3343e16e22c287627548aa7609b58d88805f8c37b9cc307d874463c2e3a",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "b0273e48ac60462f8c025f6277d1533716dee6d04c7427e732a0444e622f2859",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "b9946875c44f7339fa6200395fbfab36a48ad8afa514cd582bc853f0a40592ca",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "9dc916bbee388e3b459070930fbf54c28810a0700f16b7c4a9d8e4f966347d90",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "d196e08489e66626610b1b56450110e82ca1c53f3b491a584a7d690b25cd0c2a",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "18529253946b50cc783f01d4209463b1a1f547b4694b424cce29c4df181ccc7f",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "ff68aa70001944d381ec4a6beb231b56f7e23b739d8d364e212624df997dc2c2",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "d1cfbcd2dcddd6f1d236c7fbf1e84bf6130a76b1b5d3efa3809bbeca53516cc9",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "c7ce4dce7c6eba9de62a4211db10f5022a594efbd50ce82b70ad8ad9352882a5",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "2876e3d8e868bc724cbe81135cd6fe94accda7182b9d7ad1a543fb0a23620367",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "0030505f8ffa9e584d0dd1f265a927ce2a7266dbfef4fefc65451cab9af34bce",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "08b5987766996773ef366b1ece9db4253104138646558651ae79dccb40b6f669",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "074ada71d8f944cbb61793aeaaa9617fae3d2c6684653b9883d216a4b51042ae",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "80af22cf415981f2d7546c480800d380787adfbc63978fdafa544be464f0b850",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "f6f158b7d99e4456fbd8b6ebce430a623dfe86a0d866a18d5cf7c1963b9afd6f",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "a72d86548a027979955d52b1bf93e88a35bc7ae0f8b2c028e277d4b8bd511722",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "52567da12b9cfd3708d8f1de4be8c27418bec63c64a1493ca6183a88ba8b411b",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "89bf6ad4d8ec84b069e5984da4d1ae9ec149fb269a5fe48c0163fa0c942a02f3",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "fa2b94fe84339208784ecb708a55d6bf6b8002dda943aea0abc996da7fc8a24b",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "1f9482f39648bc86673bc85adff07823025f73aecbcbd8a00868f30c61339b6d",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "42331f99b2ac27aeab4f064b73dd7cba8b2efe7515bd96e5c16d12fd8538056b",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "abfa150b03fd33b7ee9fb38d8c8eb0747ed65f440d79a5ca3560e589cfd413f7",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "f03b2225898fc70815f2c0c8558df2cb96aafeea98f36d385750107e58435843",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "49bdab4ac90c703293e637af86fcd5b431e24bf7a13777c79acd96dda4e42bb7",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "89e8b424a797f1ae11a47ed5734049fce4c962426d80b2c0d7c3870df38de198",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "4c766ad0654c22f1e1578077c4b43075cd9524b4e27e2ed8ac7f70fd54974f08",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "078e5c96edc0e0e728de1fcfdc0ade5a9281f29f68b863a87730952445b67ada",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "43b617ec57b78b7e544e24b70424e0c141028b87964f2d83d9e12e3a6c12e39f",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "84b1c5a53c286961af5bbaee03b6bd14171b4f35c070bdc92ae68115e5718eaa",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "06a3f03ccf5d95d520120d775f7c9af6742f9eca573dee3b32b2ef6baf9a1809",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "e40607d1cc2db2957a493fba5ab0a03cd8cd457088515bee32c05837593cfe8a",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "b670e48b549bbc4f409a2d5f9dc69341483b88757e593cc066ffc5754caf4aa8",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "c8dee1b76ba8d731d1d5d58f0ef82331f11a65b8e6c5a8328a194b830f2bf92f",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "21ea33c969f855264d9aabcef7e6ffb849df4ca7f062d0f8ad2baf449fd43e9f",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "1e8782b8cd0c39b31923b9c7d4cff38454d9fda028a9ed6917a130204b3aa554",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "bfb59b1c7ba3812051ac5aa8d17ad10ac67e3ecb17dd58844629a0c0091ca7fe",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "a35975cf9700baa62292f55100acc09ddcade8a40e33fcc751e64f19c4ef3fb6",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "124f24c85c7cec9bc474f84ecb89ec308a887b3fb20ef6b1850cc7dc6023c983",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "399d611f0b91f7fdaa79a86bb410749d836afd29a2b314d49fc1f67f0708eb67",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "169a7829751080f40774b195040f92e9b48e2e54f04dbb124c24f070bb6d1f40",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "a1a8d2bc9b6233e4d73ce6f97c77591ae06b2a94b2ad1bf710d292d1c7f95028",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "788ba48ec2ed09c38d79e23d88eaaf16bb1fc5d12daefa44735ab8ed0dbabe6a",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "39cfcbfc4f2dc837f4f2d4f1fbcbee73fff3e8e6fda70c5035ed8c7c4dcb9897",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "ef70fb4886ff4d79b66222a3058c1a40b61c6cf87e9f10aeffdd5ed9d51b065a",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "dc976ec4372f1e041979a6096816ce4d58a769d909438517544a86361c0dc480",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "2f7468c4499a701eee2a5384e4780319c460e6af50705635f1f5114e4979b8de",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "5687c6426b5ea775809d3974528ead222f8b6ced416e24f920f6502debff0e59",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "73a836094aac65023bcbc3c909f4e38f584ddd2904b05903e961c676049b3613",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "b40cc7578aed80917fe3351678de478503ffaf9955892c216d6b29a54b8e90bc",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "ed1bdc9ac2bfa92bb50e14658857b481009a90b620067e147b8c6a0bd4577a13",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "393acb30856bb14aa49646f67a60b029796fcdb6935767cbfa04110028bee9e4",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "3ceecd230697beac102045eca4a90589173b5e423028ead04f4a9435f28ec452",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "65ed37d37e517b2419ad378950ca517e6a639073c698521060c51fcdc5ddedac",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "f23ba27e9aac61ea13b9f1558d7d78f86c0b3fd4d26d7ea3ab6eaae519b7ccae",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "c6983fc5572e0217f463711e8fa95008b51e4981a8e62eef22276c074a1b7690",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "082f36db11f6244390bb4107ca0702cb0b634f317598b51de657182e156313ab",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "87b289f0028fb0e1cf46b0c9f82fcc6594510b5b123deb5a61a45243fa80e3a1",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "6b2e148f9c759026ae2af92b3cc5b2d12cd3f09b164917ddb8009da965bb6c9b",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "99d830f3092a0e4926bdc8816a77b81de72ce5fdaf46d16612ac9902ee70bed6",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "e8591960fbb28468619ace7628272434fb6f730693ee3b05eed46c0bdaf416e4",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "7e0769fe7ceaa913ee5aa4ba36bc96dd8bfe79a2260bf1c3626c671ecfa11bff",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "7d7750758d65068fad9ee4425407f0aa5ae30a36b76ee3ff0a86f37e70192ef4",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "12f5aef7acfddb83ea9d85334b01e09f14af3c1f508d3fbc0310e5fce4fc39cd",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "ee8436a0eab16beb75da8151cdc92a8d2477da5b8a58263b0fc82c7a553796a0",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "088a5caa4f668dcfa22da04fa3088dd4e8486123a1e87bb148c3809aca50460a",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "4631972c1410b9d1b21fbc3238a2493481490a4facd3b4ad09e1ea7337b2c523",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "5c84d7793a107ec9d26bac595b850dd877c2b8b4ca3c995f45cfa8369bd7abee",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "7fbc6cb116e1906b6108aea09c26a06bbf9fecac0da05a512e99bbcd444b97a8",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "9bc3ad6343f39803e9f6e87c0c4b03f78391401ddb150fe6db77a278f21ebe41",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "abfa150b03fd33b7ee9fb38d8c8eb0747ed65f440d79a5ca3560e589cfd413f7",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "a0ab2f4ea234a7b90677887c88bd54f59c14a0997943d22623632132eed4d28f",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "0500fe00c4dce6191a58e643eaa19ffaca5992328d54e49d03477482db726b0e",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "e0b88781daccd3de34fa1855839925a33b7e0cd106a9ff74be662dc661d89f14",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "cad1739d5c5691e30278c788bb033fb6a715dac7c23d891d59b1774d7052e542",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "5569938697f2caef79b688e57c267ee3a4cadcc5196bf36b4e5181ae1ed2d673",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "0e980a00ede8155ff2a3df2d9d7490e8697ad08059a3fffd7c26f93963994538",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "647bf8aede0eed371bd96d9f3b6c414a30a7a940f5099dcac9ffbd828850defa",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "2acfee075e26afbee78a05d02ff407aba238b02ab1b621700f22fe327320f3fb",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "70921850c66a39648d994e667644812568554ccfe5c52ab392f2d4b6ae5ca693",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "cc079970d66e30642b3140bab6dfbedf4f95a4f408f063fe9af1f6fa9506267f",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "0c9aaf30bc9a383ddfafc48b9a93731adfcc62eb7508721b560c99a4ae6c1a3e",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "ec2ff1c0d9b73708587c74f3d7488c09352192c75e690a09f20d4788f25f80a1",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "d9ad132cf4bb02e070e3e71c3637175135237d3a8ce11bdb7bd89db82610f8d3",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "84383a1353dba1094173c110fd222ff1c4ff71f3a6c0232d4827f012ae35db84",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "6f04e1005807bfd92c27b875c9d86fbd3675e70117584610a18fc6f3c12e0021",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "3ff4bcf11483357a966cf24fe40486d8234b8b99970adcdbc2dd9dd5558a9424",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "a290beb8372cba53594d347c04c19c6b65b70491875ed6d82e6bcf1dddd9b2ca",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "d809d09b8e95f0ee51e4f769e1436db88839245794b456eacf3904db796fdb44",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "11dc410bba714501646f12772487ec6731aa150f3d512e5771db0a8e1806128f",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "3b10b869eef1f69fb779138797f58bb66e8196665f046169ff933bc7fde6a8d3",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "570d2cf1c4fa4f584cf0d5c683aee80c6132013489a3da6258d4a7042b7970ec",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "8c6d27a5224b111410e14f05635fdf8d856dba9aa64ec96388d92a9bbef0a248",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "43b617ec57b78b7e544e24b70424e0c141028b87964f2d83d9e12e3a6c12e39f",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "f86feab8033bc9b4bce008f818d14ce59dd289d1facb77a3f45e365480c02dd7",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "df0830105d4dc843b6f98621ffd8ec44b7732b9ad1ff7661c9a6f34879d97493",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "419a5ae00106133bb1ee1ef32d10271ca0ff0ce6863874646121ddcb38f7e8eb",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "1c1e4a00e108087390015d271bc9cbbf11e9dd87d3ee8beb94eabe9193cef9ad",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "7d8434017995431665956464906f02f4ad5f25d91bb25a4f608010d66be18c9c",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "5579ae18543f8393a66df6ce66286aa5b3284ddad2fc75ee881fa67798403195",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "e02ff6fadfffd7633360c0619c42e0e4d2ba6dc8ad04812667eeafed975d4c1b",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "0170f1a3a75a44153de4a9be5d5eeed7c0cec46a16fc4248837455fd01df7c74",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "6ef9fd2a0c079b6d095c17e188535b464aa4399fee192430656e800644cf9dd5",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "245f267a50278b3a991a3eac4b558f589cb84c297ffc496ff1957718149067e1",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "345a91bbbf7fc4be9a38f532dd5027cfa269943eedfcc7713ddaaa2b0d7a8fa8",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "c44d36113e6fc441f65cc3f149a15d5326fe3a70a7a86364fa4ee0cd3bcad564",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "a439feec15f020c1512cab3e40846563fe72ed02d6f8a90a4f39a1e2d4efff34",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "08e7076094c2b5e3075dc8d822b3d1b0d3949c42f48136cfda39a5adf5e5cf2f",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "a3d53f56206e948ec8220c5981c345deb89a4b318b0ba9ca77a7bcd9fe448770",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "550b0b93f751a4382809ea13831dad32f5406cbab68ed0c792c3c21ec7c235ad",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "35319815d460efeae260d92c57cf83cd867b0682a7c26cac6df2fa29ffaac0e4",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "a5779f129f9aae12ec0f409fe7f313103af14227d52bb9fbd6ec8ded976b7921",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "2728e65e7d1658ae500316d39e82dd81e24045dbcd752421972808f2524d3213",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "332e750e64dd5cccf19c9c11fe1ee9c1f9938758cad3576b121cfab27492a1e6",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "2876e3d8e868bc724cbe81135cd6fe94accda7182b9d7ad1a543fb0a23620367",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "a42edf009cb3a9fe9093154f8c5388d82632ae206157e2d289d1643880633e92",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "ccaa4e847778329d92f4338e39b3663195437f4dcc24a8db7b972d0d93e083a3",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "ed98ef439ecc9c8d1556300e068e344a3b31ce043097783d16cf960b12dc93f5",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "31c3f178da93431fd3c692c6d0a7a5d73f14a9771c23b55e3fee338034de02b1",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "53b8cf14db4a2df1cc36463e3840bccdd0a9b1c9022032e6edb48b0b265ef311",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "d72b2e17590de8f56fa14892c2b674755b93bd9e9d72308a1c305c96169f2262",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "5c8b50e57bf6ca772db247fb1bc5717d6f46b3d97974d288498dde68af24f72d",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "4ecb3fbc3f82c7887e6011ba4b99799f7cfe4de82e58d8d8dfe82fccfc3c1c36",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "188a38505be053fdb81d9403cd9ddc4f7c94d775015a0df4e4fac7f85bc16cb2",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "e0e5a60c25fa7fca86433735374d7b8336e0941bb41ee1b7832b84f210c92b5e",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "0c9aaf30bc9a383ddfafc48b9a93731adfcc62eb7508721b560c99a4ae6c1a3e",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "1d1a4652ea8a19f24e40c9d14e4e62102c49094c9ade81416c6daae31a0f4c1e",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "0c1bb86085a626050846da8073d20468bd423e4e70f3b16f65d3501b6f717b9e",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "2728e65e7d1658ae500316d39e82dd81e24045dbcd752421972808f2524d3213",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "ec5ecc8eef00d7768c88266b1932273703907718b76c32857a0406d9d6855c9d",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "f096b6ec96cdec388d1863121e65cdd2b45cfa57957444bda4ed3157347291db",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "9a3942e0c18abe00137bba93b325bed70a2ace452c8a88f537f92648664a71c1",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "3ff3666d74379cdac7fae8da246b4313879221780cf9c801fd62ca9ba7288ffd",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "81889467782d46979837b782d40d742e69961e0116d4ac45e1e58d5c57d9e86c",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "082f36db11f6244390bb4107ca0702cb0b634f317598b51de657182e156313ab",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "bb9bcca049dfb77257097a2813a9da7d64d3a1da6c8b1ec70edab9c77cf027e5",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "792e84316fbd279e2a9b8d5872246f7f89c8d3984748be6d29b9a85e6c76bb7d",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "735afc5d6a3d2bdd904c543a1fd788b4bccb4afb1a909f2a57792720a6377023",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "bc4c4fbfc0c18c3f871cb510f1b1ea38fdcb3811d32f46cfc09a28b9f1c4123f",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "46a52efee69ba953f4645fb63a8d53c05dcb5c11c2c2480f8bad0f89ecd758d3",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "d70e438e613f37379ec887aa27eb942d62c3b5ad244a579b41a22a0ead99ef23",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "c31c9bc47c68b604980424b6fdbc9a42e51c896c8d796e961eda8212f89f0199",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "598ef2bb69560b7e79d4e53856c98d860bf054460054bb718a2eedf99e7e8145",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "b3a6b2084335a823ad94c4ca2bb46e6dc41b69ccddd0c8807f96a413b4178fcf",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "4e57a3f5febe469ed178032b5ae1f05b9e7ec7dd1cb5f2d31050091eb5585864",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "981b2f48e7405cf25a181ae4d82ff17c4826bb0b70d03e6d2096ff9835ae9fa7",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "1aaf3647c96d7a891386425bba7ceb176a11c948ef8722931d46b7cb7bf2e952",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "09c469294b5cbc70e3062d22fb2e465f1f57f64c645e549c976f1bcb7536d90c",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "b97e1ee64583c30b89186475af6d0e5e70cc29c24fb44858a856924e795d1c88",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "bb5fc2a0f42929861a43f9c1d287d8bd5ac3a9bd2358e395c610d99d55138b14",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "e4e2e5f81b6015b9b69e6e464a29feefd2ea35de58d81d37108e87564adb382b",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "6c4a9c30e1f6ae64100bdb41656b452ca61b68113f510001b4f4816595481eb7",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "d72b2e17590de8f56fa14892c2b674755b93bd9e9d72308a1c305c96169f2262",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "226c41ea5b47c8f7ed26e19e23db5144d67fe65878275b18255a885ea611f8c2",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "e0dd955b0f82434499ab49520ec04684c37eb58b2caf5fd02748d13ea9a6ef34",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "d836c85293248664acdd746c7dc2655d31086d0909696de01e327a4fcf264bb0",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "ddf7281b7a064193efe26b1e1eac0a73a6f4a65baefd006ec5c15b5a3aeeef92",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "5579ae18543f8393a66df6ce66286aa5b3284ddad2fc75ee881fa67798403195",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "084150472b43d6b2f428bb94612763be2ad7b3f30e3b1dbabe75c5ae4e3688f7",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "bc3d47a3fca43a5af46073af4521c55ef80a86d85f857efe4c3afb0d2f08b2b3",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "20566bd2c48b96308f72aea77a7e685053324896583fd6b4502698a898bf3028",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "54f30bf3078b5f47cdd8e1373fc1948f730576c60acecf9d0aeb591c00b07f67",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "528fd9d312362546359f3c1f569b78d66fb360f45fefd747a63c62e3f95140a1",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "677eb7fd97be3407aabf2071c9cfb735cc61cad29e5c0e62520f482dbeacb2c4",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "0500fe00c4dce6191a58e643eaa19ffaca5992328d54e49d03477482db726b0e",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "f01960eded8b6149744a2bd2dc6084707e8ddef00abed0231f244f384bc56365",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "52b3a693b383648bc5344a1af28d0e673055a72855d8b72dff861b4808065b38",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "d3c779c9082799fbf439d4079476207e3b94427c75c5a00fb91cbec331439f63",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "db9d86bca8dcf82ae887dec3b433dbe9bfe4bb619b250de3b88c4d746de7eb0b",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "57075b30d11a24461441f425f2544a52410ff646f858419b1188c47d7ad6c104",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "54848975fcc686a616f0c2273a3922dab67fc633ab538741674ae068f14bce74",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "a5a6d0a5a7ebc19b734ae976f9e89819488dafd7d42865f8bd9c6dc07b449d95",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "af42a716e5bf92228fbcb27440cd95ee2208fa60659cdbc3788310251d60103d",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "a35975cf9700baa62292f55100acc09ddcade8a40e33fcc751e64f19c4ef3fb6",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "cd341ce9f4f76cc7a23140723261519fc91c60d27a7c1170b71af6bd73a9bae0",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "4b80b632eacbf4d4eb05dce5e261e647f8a26c7a14fb734c18cb10d018f80d05",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "a3d53f56206e948ec8220c5981c345deb89a4b318b0ba9ca77a7bcd9fe448770",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "3b10b869eef1f69fb779138797f58bb66e8196665f046169ff933bc7fde6a8d3",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "a8dae4299398665b3744e757e0787f7f6588e3e4515b31f6070b4ec8930e5308",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "04a433f693a770e71c9c4ac338eda322c2d7dd03fd2d093c669b0f698182f69c",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "308665bc030e486d22ffe9c34929b1f1263512ec3d794b3955ae5cd1d26cec4e",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "799101ec5243a83be0fd20d8494424127a9a81ca298be89210a78ca7cbd45a6c",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "694f3541ca77f18a028215370147dcf7e346756b883e66b43d14e971e5b25db7",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "ba2c1ded4b01d9ddf1fd7e69f183d93a4f888c8627d8c213f438eb3f44664a58",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "0a6e0e389a81f5a236a979c92a1b27065f2f11c6ab5ba9ebd21bcad9e79e3744",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "f41bb9de2d6609e5290ac4f03f868503351a77398acef440a5f5df8decc4a339",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "421e7ac1e7eb251c7661bea8cf72501e461637569a574fe2df6acef0105cf629",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "79e3d22bfd6184b85ef162b0e2d2f36b56336747ddc4ea3be62e4cf84122be36",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "a0c932b36ec17401016e5f5310b82e05bca4cf3e4ae30e69f4debd70342fa05e",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "c6983fc5572e0217f463711e8fa95008b51e4981a8e62eef22276c074a1b7690",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "a036f89529c00b66a6d7e459426b1ddce8188ef485730a26d11f31e49941cea2",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "b475b209e70b444dfd9080c5e41cde04bed86e452af11b5ce05bb3fa78b62d17",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "b1f80e7d3ca741702b225313be3f931f8e7467142c1207acc3cf0decfed627c6",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "b61f853a9d97c06183b7982ec40126aa9ca57be31a739f8182ccd9cf29114525",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "bfde5a238cff9294f1d8234ebb2a4917252d6ad50e0882a02e67cf29bc1e2325",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "b40cc7578aed80917fe3351678de478503ffaf9955892c216d6b29a54b8e90bc",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "a976b1f5416517d59a23253a3618b0b84a3f499074c42034aaad657f9fc0e4aa",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "98bc984f9e2fadc5e40668c8e4d824435cdc94b4665301aad919f52afec709af",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "12bb92906fa69276f6339fe2afdf0b6e7dd15071d01e66e91cf75552b42ae937",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "1b3f06c1b6a6925ebd6db26914b6249a9c19547698fb4d053b7ac3d87c74841d",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "4ffb77d10679594971b2ad6e4d67d30eff9e18417a95313e1ccef1dd0cada07d",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "5464c6df60d17015689acff2a31327d25b63da21fd9aa6cef1eda09edefdd559",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "81fc32248b87370f68e10d659e42d256b96d106ee98ecc9e99f1fcbb57e4d57c",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "2e39d3f751c08118500962054b8a13e3e9f5be79c1942aa0cbe2d3d2f099eec4",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "5b539d0cae79e2a81cd605f9181d0c38ccdb5ca18f1c9a4ae74232a0a49d1b16",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "0be0adbabc5090c2b3bd1ef34db0e4c9082a91cc32962e77b34ddda6a17d8bba",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "188a38505be053fdb81d9403cd9ddc4f7c94d775015a0df4e4fac7f85bc16cb2",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "17ed81879b7e9c834e6ba0eb0adf17a57321790ffc423111025ddababb6e8314",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "e4e2e5f81b6015b9b69e6e464a29feefd2ea35de58d81d37108e87564adb382b",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "671830a4423dc339e8d36e748543b20891a1c4dd0f2d463d6a0a43882c4b5d4a",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "57e4f67ff7a059300353a61465b8fee4219c5903f0b6ae8347aa73ff03a55480",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "febf25117de8dbfb6dd8f4cd5c1c75c6fe8fb78608ee5bae79286a437486eb83",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "4e8f31c9dd250849d598b0c7da3c788dd23f7e7c74d762dc8926538e7067135d",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "9bc3ad6343f39803e9f6e87c0c4b03f78391401ddb150fe6db77a278f21ebe41",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "67b0a7e527b24780e111a36da7ba1108f01031241c37139a7f2656d02969ee50",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "ed46986f30330f86747f149b76a4c0fced26f284f231c1500d172b8dd8469138",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "a5e640a56a6917366e5acab453078863615e47881b3e1d9e3725ec38a0c9dde1",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "4819d3343e16e22c287627548aa7609b58d88805f8c37b9cc307d874463c2e3a",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "0c85c28a8ee79cfb78f35cc27876f5b25dbb82076b04fb9b67ce5e65ec6368a2",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "e3a3e5d2e6b5760f2b5e5f488de7052eb58539be9df1c9a566b7c510ac670f96",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "0e74023f26f2c4002790e2ae0046d44bf2d1dae9240bf17087f8b468eae542ed",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "4e57a3f5febe469ed178032b5ae1f05b9e7ec7dd1cb5f2d31050091eb5585864",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "ac552493b81e0eaac91026c3f82b83fbb44cd79368d3cefc4f71c0301eb21564",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "0ba8dfdda7289e7a8dbb99f8c0bc24261faecd1ef9f4af4499c4a63649c43c9c",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "4ecb3fbc3f82c7887e6011ba4b99799f7cfe4de82e58d8d8dfe82fccfc3c1c36",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "4c6bc629bb4fefc200c795e6ef3167fc84d0b17e9dc441eb21373790860b1ad8",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "f1d1c55100877b077aa129e1a7bc85e19982ace41a0c678f06d6639c70b769bb",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "ece7360abf493c35c63f1ad2bacf1a6e1c129ef8993b3d80d11b8675abfc7525",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "9f0d28b440a1f00707a03a265bc7325cd081a500756882f11a95fd030e3a8dc0",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "1aaf3647c96d7a891386425bba7ceb176a11c948ef8722931d46b7cb7bf2e952",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "41cf59a511f4aa3ec947efbf2b0f90583af5704c86b0c8b82f3a7a737dc07356",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "22d90018d03fcfb3a34708574cb6fb9c87310f28bc29ca2198d61a9a7bbfde30",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "d6b42af6cc0d19911b14984dbd8025d8e94a2c7623c63fcaa5f0307af70453f2",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "bfb8f9b03bac3be595e7fb6c8ed446efc13b91421ccc1746aaea127afd355778",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "69050e41ea822def5e559b0f1e2d7370074f1632d1b5eea9e2dd4a15477739ae",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "afae497ab1346247ddf87326c97e2bb887a17b44fabd865d0917bd3941e5912d",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "2636657bdb5ed7276afc31e72b314fdf725881b83cf85b44b3add045e1317301",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "bb23cf9d1437c6c89b8871f4c295f172474cf4f1b00145dc4965f71cf39d4151",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "e1b30f994a36caff1dbe932beb76f1bcf099d8a731ae2ebd5c8c4c326abeccb8",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "4e57a3f5febe469ed178032b5ae1f05b9e7ec7dd1cb5f2d31050091eb5585864",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "35a3cba4df44b84aa12b913781dd719d079515aa91ba004ca06b5909d2d2ae48",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "ba66e0a26faf1c96dc8d4e0427b5b8f82b5727c25510b35da386d094e6a7c868",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "22d90018d03fcfb3a34708574cb6fb9c87310f28bc29ca2198d61a9a7bbfde30",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "671830a4423dc339e8d36e748543b20891a1c4dd0f2d463d6a0a43882c4b5d4a",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "f10bf39929ef63044ac4021ce49d92c32ceccc85d25c09bff22981713f4ce3ce",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "61f31cbfbbf625cfdbf3e3b3722fe2bd2ad8883b1196295e8ac5c3761593071a",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "1effac51de3e065f6b60bf353356146125e3bcc26245f940093bfb6d5a0d2010",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "4f071f567727f10ec938c76dc64eb22af2638f65a244fe4c79bee688aba08b7d",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "0c9aaf30bc9a383ddfafc48b9a93731adfcc62eb7508721b560c99a4ae6c1a3e",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "9f10e6bae1ed87e3867d111408d5f022e852ea13006b8bcd7c93a06740de5115",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "17ed81879b7e9c834e6ba0eb0adf17a57321790ffc423111025ddababb6e8314",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "a5779f129f9aae12ec0f409fe7f313103af14227d52bb9fbd6ec8ded976b7921",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "b48f8369dd3408327f5414d013838b72238002b7fa219b335b325fab2a40cb2f",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "fd9d736a5208f6ca488a4403275be1b405996559bfe53ca07a869cfd063deecb",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "c52d8a5bcf745347f4a857c6fa658144e22088e314470a602440483e35874fda",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "196ec8f4c400688d2d1149904c60a1c3e7e83307a6472501378a79c94d1000f5",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "3ceecd230697beac102045eca4a90589173b5e423028ead04f4a9435f28ec452",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "9f0d28b440a1f00707a03a265bc7325cd081a500756882f11a95fd030e3a8dc0",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "aae6b0de842878950987121f69a62a9de13c76a5db33191ceb1d558cb86422f2",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "815977b31e44ba1418b51eb3c139588f12ed1dd53e36014a29a2f5ace4ac58a1",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "2fd7c9111258e8acb5949fe3e1a22108dc11b4b1e6bc55b3296a080442e6a979",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "b64c9ffe4b9db71c7058c189028741405e8ff774f92ce04a44d43c2e2d1f2faa",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "1f9482f39648bc86673bc85adff07823025f73aecbcbd8a00868f30c61339b6d",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "470eae8bee9faa022ae2d35b7e93185bf91ecf61962506f9f8315a403c0c1b3a",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "db96e998846c9b4188545739627d0f9eee0f060d6306806abeb01f28c4ba604a",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "12b03648beb4a5228873e800634287438fcad2872aff66b83f95d7787a059a68",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "f1a8189282731ea0e4fc9423429389a6347f4c6ea5084aba91d36a0b4d086cab",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "aa26d4fb897576963131aa9ba404e0ff46a3dcb734ccbb258d11f0b239788493",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "d37f1b719262b18d93e9872c284da4ce1f5b0426072fa5533be73b3cc264b738",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "f2ff4312fe6834167c6efd1cbc57d93f4cd4255c5d94e28d030c56d396b95e67",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "a0c932b36ec17401016e5f5310b82e05bca4cf3e4ae30e69f4debd70342fa05e",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "133d400c8137738e297b2ec2e1b44099e4277d39b3206eed383dc818aa96198f",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "eaf7e1615b42f5873ffe79824d0548aa682d328f32139d27a1e1b60e320ed016",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "d6b42af6cc0d19911b14984dbd8025d8e94a2c7623c63fcaa5f0307af70453f2",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "788708fe7b6e3f2807ccffc317036cc056ee446963a4989c755cbcf92aac35ff",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "aa1e4e13cb874ac4ac51c32e7ee47693ed97476cb54d89b6333960be5f1dd820",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "e0bac95ee2d394b06ba769e181ca10f2a6b57cbcd69b34aea627015e83e85507",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "7e0769fe7ceaa913ee5aa4ba36bc96dd8bfe79a2260bf1c3626c671ecfa11bff",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "faf26be5b98f64117989bfc02b052e9b3579f303b364ee839dadd8a7b34b7a37",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "55c09e98ef0f78697bfef46c94187c019909aeca1f0728e874561b96f72eb60e",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "a72d86548a027979955d52b1bf93e88a35bc7ae0f8b2c028e277d4b8bd511722",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "c0efd86f2a32b7e692123fece05c565741d553d26f34230ba7c36c3092fc901f",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "ca61751d2bf5dfeb3b13797756c78cebe5769a72cd624ea66410ed70a94f4b53",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "70f914713d52dfd2d0c3243f8725bf2715a2c2d3942f26653b4fe7d3791a7fa7",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "7d9cec9669b7217696fccd7ee559b56c80905011ab10925f7ed0d4fcf199dce0",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "e3a7f39dfd1a6c701ac941835a07ff0cc4e61b6f25cd9ccaeba242630811720a",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "da31f7d0369185a473bcd958749d09445c02e08d0489a55939809fdbf3d2b2ca",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "14c2c7155b9e277d1ba39fb41d9f657c5f257bdc6eef86690cedabfba81575e3",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "81240b9def4cb328d840bfc9e264eb076cbfc9c41aa41797494774a83384a5f8",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "4c6bc629bb4fefc200c795e6ef3167fc84d0b17e9dc441eb21373790860b1ad8",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "4b8b7357db38cae00e140dfc80f769d89576dfd301bd7afc6779389c382161ba",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "af81c8fb4df9099a7062fa71a4c99dfe775feb2222d7d74c0ffb3b1a9dc98030",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "4552252df478318b7bcd138053efbe1fc7bb13f68fc51c51cacc064876e0b9f4",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "2fb67145e1be2324edb913cb5d7adc492582b7df01113557eff38218531dc896",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "ee5d98a23bb6a91f965e0eef3482b253cb4f9fafb2e8f190e8c198821c01c050",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "edabf87619c0b4fbfb98a5bb8355b4cf1fc08beac175d1b3ef82540257f20c88",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "d27b12bc8f362a3cf62a6cff7f8c08c292fe8ea7f26a484dcc7f4a8471c53cc9",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "b9bcfa5c925b3fd82bb4e3d181480a9d2a1dd56dd07ea84dd474a52c04ffcb6d",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "799101ec5243a83be0fd20d8494424127a9a81ca298be89210a78ca7cbd45a6c",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "e59f5d48948c801ca9a55a8b76b2250bc525ab635784b2125a2413c824f04287",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "543ec323a72e55cb4045c8c772577d1f010f2f06c82ebfa695c9b665570013c0",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "d7dabdcc071d33d4f61723aa35cae08625471c67be18415bb44375bbffcc1700",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "f633ece63fdb18162596ea8e9f7d7372a5b3ee1a122d57978b9c18dadba9104b",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "78924a1798fc35b9a3c25cc14eb4175b1cb99a96b58018ee0f983e545c6d1c02",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "4c9d10d7f3cd658828b91f2a29b786c18129988dec143d7e417936e75fee4139",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "46a52efee69ba953f4645fb63a8d53c05dcb5c11c2c2480f8bad0f89ecd758d3",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "594bb5c38d1de0cf8a895d76f1bacc8f34eb7d63aae0f2aa971020c2b3d64bbd",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "e7cb71fe12d9096fe878e4f4314de2273907d49bd25e6777b3ade6f4060ec6c4",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "db96e998846c9b4188545739627d0f9eee0f060d6306806abeb01f28c4ba604a",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "779d9ffcf71024ea5aa60616418b0fd03460c55a7543cdf2f53a326d1c9cb4dc",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "0a589228b7ca9cf774c8ed7f3f2cf26a312f30d5dcda35cf195478a6601758de",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "d196e08489e66626610b1b56450110e82ca1c53f3b491a584a7d690b25cd0c2a",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "4819d3343e16e22c287627548aa7609b58d88805f8c37b9cc307d874463c2e3a",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "0030505f8ffa9e584d0dd1f265a927ce2a7266dbfef4fefc65451cab9af34bce",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "e3a3e5d2e6b5760f2b5e5f488de7052eb58539be9df1c9a566b7c510ac670f96",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "da31f7d0369185a473bcd958749d09445c02e08d0489a55939809fdbf3d2b2ca",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "abb02463539cd47bfbc58869fadea0f6b1673b2a95a26a98e925cb5c74b45da2",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "11682d613a20703b2a30c1ebb0474dac6c5f082d50b4298d5c582ce605bd4302",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "ee5d98a23bb6a91f965e0eef3482b253cb4f9fafb2e8f190e8c198821c01c050",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "ffbbab3b7092c4d7aa36ebae140253cff00086570cbdcdfe408c834717f3368e",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "c546f676ec2f893a253a2d318eafb30418da4fe40bae4e306f36a30788d865f6",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "d95873ccc794712d4476dbf895144dde83702b64a86d8ad909b9c69b741209bb",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "bc3d47a3fca43a5af46073af4521c55ef80a86d85f857efe4c3afb0d2f08b2b3",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "75486f404f2da548a21d976c1884c832b4401d597f93b8d43f7dcd40aeece724",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "c7ce4dce7c6eba9de62a4211db10f5022a594efbd50ce82b70ad8ad9352882a5",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "2ddbcaaa3c786ddcc984a7cc9a6bd253a08463e056aa485c2c24db2d0a917656",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "0e34bec823e6e49fe488b2505292dac72e8c9319714cec50c02c44f4e003b740",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "b50ceabea5fd238b36e77c437fbe87142290a0222c3741299714146f64dd1432",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "5b33ed1261b2aecc696ee4e51ed468a76f72a53884e8679fe46350dabfffc27b",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "d45e441bd873b78d65be60e24f669c2f054c89a1aa10014e00f1254efa2fa330",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "c17949ae1281e59cc865dfac6e891b72158f7356cc6dcf09f930663a4d2a5ec2",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "155aedb45c1dae84f535624a9c84dad126edf764995c3ad438d3452716bae963",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "e4be803eb96e16d24567cdb51c8259cf65883fbbf1a504ecc3083f0272d7abfb",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "4c766ad0654c22f1e1578077c4b43075cd9524b4e27e2ed8ac7f70fd54974f08",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "3ba6c8873d3ebf6584aa2df803f0a4ff5ecf02b3f6066d69fe6db4666a2bdd45",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "1afb9545a05d5897f8b2bb959288ad9c2c3b573fd26305535eef59d16cd00f02",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "ba9c68cc5a4ec49bf0c89027ee8db407cc3553a8ac5ec3732e7a2f25d490ee27",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "a91c2b807dbd674498a0ae456612c710a375b62b874ef3d4bcafb7dedb480115",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "6ef9fd2a0c079b6d095c17e188535b464aa4399fee192430656e800644cf9dd5",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "6671737e15f339992e46c783a39e156c5ffabf90a23d86d32ce2baf73a08e348",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "084150472b43d6b2f428bb94612763be2ad7b3f30e3b1dbabe75c5ae4e3688f7",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "b61f853a9d97c06183b7982ec40126aa9ca57be31a739f8182ccd9cf29114525",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "393acb30856bb14aa49646f67a60b029796fcdb6935767cbfa04110028bee9e4",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "dc7d9170b53315e1fd46393e55b5db653e3cbd48ac3f1ab7e3b613526656bc82",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "975e0d561a66d291b4e214c237763c532951dbd45ea3ddf3af2e163653d01e6d",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "757cfc9c42b6b6072c8078df5aefe7e90adddae3b0e5986cf132e965b90894a1",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "0fe1011b5744e2ecc2fff2ce800f687bdbf282af7a4a2ea8bbc9b2051f5e5ccc",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "d60b2f0245adcf3973ea1e0f21ea0c72ff013144b67e06a2424541e5533a4f8e",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "1dcb744a001575647c7eaba2b633d86ab4db3b0964fec413f253918496817991",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "a6145635476a7c488def926f40a8db785b6136ac4a774cd3f160b0aa4f020794",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "ce46216065aa4946c95a1ba888f3c7c6349ec5c3e183e8fa4bd5389c4b751ca9",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "6d5c5687c4a95bc1de267703a4ec17987e8f9b36a48fd105f299d6b6b8a46245",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "690deabb6e512baae941b3178fd3cfd59139689d2c8775c0fa41d2043d1ced18",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "b546e2dd36087dbfbb804f7e71d7ac6197a8aaa5aafb3994081dd4473d74aa43",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "259c0abae9d9385878f48b0368cb55eb61f86a1eee9ff57fb4958239552e7e00",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "11682d613a20703b2a30c1ebb0474dac6c5f082d50b4298d5c582ce605bd4302",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "44a5638def9e9fdaddb6e202e32c3cc81e69217d87202635e976ec1262e1acc0",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "0677c308501375d8ec7324719c0308d5ce993e110bb212b6983c2793f041adf7",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "788708fe7b6e3f2807ccffc317036cc056ee446963a4989c755cbcf92aac35ff",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "ec77db7af81d0fee5fcbacc66094107291476f89d487ca4c78d226cf3a7c556c",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "3b4ff7c9f70436ef15573d264dfc7d443875902f5c3d3bbc9e211626280e891c",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "f5a6dd20683db2106dafb012df13c3cd7f7c611352385fd5423a5c160a439dd4",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "1f61c309483b7ac1c2e255bf2c74b344271795f92c2be14d4e398d67dcb03a17",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "10d0484f97d97e8cf546e22b9d221486586792452423af7391ba2af70345cdec",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "52b3a693b383648bc5344a1af28d0e673055a72855d8b72dff861b4808065b38",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "06a3f03ccf5d95d520120d775f7c9af6742f9eca573dee3b32b2ef6baf9a1809",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "082f36db11f6244390bb4107ca0702cb0b634f317598b51de657182e156313ab",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "75132ab4eca67a2781cab9e24f8499b45ad15957429c2c30b92c3bc452cebbb2",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "5579ae18543f8393a66df6ce66286aa5b3284ddad2fc75ee881fa67798403195",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "a1a8d2bc9b6233e4d73ce6f97c77591ae06b2a94b2ad1bf710d292d1c7f95028",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "a7050e00bef6ca138c60554eda4b0023425c47d08e8299e6a1d42688b3049480",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "5d58046e5cba50a18536248839db137901ebf4b5e8477e40e9260f52ed6b61e1",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "247d967e3c51e4e14340285b96a0b1b23282fe693f477b383c3025130379434c",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "ee5d98a23bb6a91f965e0eef3482b253cb4f9fafb2e8f190e8c198821c01c050",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "a331b865b6a7391a7bdfd1315b39347ae585c900a750b7194c4f2e55417082b1",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "57e4f67ff7a059300353a61465b8fee4219c5903f0b6ae8347aa73ff03a55480",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "2d4261f22d702cd8a58a80da5d9aeef631d05d6d65591f09eb5ec34d6796d541",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "c8dee1b76ba8d731d1d5d58f0ef82331f11a65b8e6c5a8328a194b830f2bf92f",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "b48f8369dd3408327f5414d013838b72238002b7fa219b335b325fab2a40cb2f",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "38c35e45ebf389a725ea6d537b7473f039a11a7dfec11d8adeada66e18368228",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "7338bbbc5517ecd64907f95ec243598e59f179c05010d81b5dfa658f92fb6076",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "04a433f693a770e71c9c4ac338eda322c2d7dd03fd2d093c669b0f698182f69c",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "1aaf3647c96d7a891386425bba7ceb176a11c948ef8722931d46b7cb7bf2e952",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "d122df713085c4ec192136af15e6e11bb3ae209c05d32d963afdc4297811ec97",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "14c2c7155b9e277d1ba39fb41d9f657c5f257bdc6eef86690cedabfba81575e3",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "df9558ad8ff6fcd4cfbb9d24aea9c219e61d5a60d486ac9f69b9d3d819e2b401",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "8ba9e27e4a39c1eec4d1d6cf8ba449a362a197eb513da10a2ca60dacb9664df4",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "3c58e0fdac7f4cc8ec523d0666389beee0a1bbf6d6925db3d6927d22345a76be",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "f36902d5bb1be2c92862d017eb1ad7f178057e3093fff29e350a2c0a1a3e6c41",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "0380b23b962976d1f32c17f10cd92988d9df57dacd3015f2bf73e974f16a3a5f",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "b450a18c38f26462d4cb3ca195721e602339b4852ff4b1c09d713cc7a7ce869c",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "ce61a13f230b7ba7dd5bc336b3020a06d4df32504924c186eb80b206ce2f81ef",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "66f3302dde5ba27547a54a4da9187483be9d848fb71942fcc61d9434c1563db6",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "b61f853a9d97c06183b7982ec40126aa9ca57be31a739f8182ccd9cf29114525",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "cc0474472af6bda7899495620a5841f00032fbf8371bfdccf18d926660598e13",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "c90aefd08719bb9e99bdfcf6f85405fa849553ca35825abd2544bc16406b5aa3",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "0b06d1ed4208179751dc7ebaae58183f541bff672c466908b8c61a99c2646a3d",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "345a91bbbf7fc4be9a38f532dd5027cfa269943eedfcc7713ddaaa2b0d7a8fa8",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "f665144ad766771672fdd044b0605c7698a9d741c89c1ad56c89e860ea856c47",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "02b44d41c9acc6c0137bea3fa61e48ab32a13de65ce485dbc2d3935eaf29be4e",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "d1d83ad2b30a921e2d369a64b5228781c5514680b133d9bc550b7c6ac6811a18",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "084150472b43d6b2f428bb94612763be2ad7b3f30e3b1dbabe75c5ae4e3688f7",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "1968412be79b477a972544ab0412f96c3e763f07a5d873f3c75028139dd5e5ee",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "80684c97818c77e5b31281d496a272af4a987cbd4205d7ee6d4112ab0e5b4d3c",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "c79ac3bb270b414b8ba83039d200b138438835e47b78609b9efc8f6a496b29f0",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "acf89aba7f0e6c005c1cc7b0521a74d6a4809c4dd180b1b1e5bc5c5dbf8222a6",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "c6983fc5572e0217f463711e8fa95008b51e4981a8e62eef22276c074a1b7690",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "897733471c3b90ea26456fc8c7f09e763a0b9fdee29f68cc102bef0ed77876e6",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "883ce03b6275bc09998d98a32ed968a94fdeaac0a1d87b6f489cdecc3238ae54",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "d122df713085c4ec192136af15e6e11bb3ae209c05d32d963afdc4297811ec97",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "f10bf39929ef63044ac4021ce49d92c32ceccc85d25c09bff22981713f4ce3ce",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "33cb08d57bcf3e36267f2b92028e1f31a82c032d5ce2a9c4a358dbfdc561447a",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "443182efa647cd0f7a2eae4f7ca817cd283e4af81b1ee3fd15c84ab17e141b4a",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "bd7ef41454832c311c1224c4311c6d85f86cc38859d694f0c750d04236c2b549",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "41e31a0ccd936a2552c6d47402e2574618f59ae408241a175c5036669e77b325",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "18269b887e22aa27667fe3069dc24d0c15cdf5e1a47a3444c8b1cb7ef31b1a7b",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "4545448a6ff34b397330b536a5db0dc9b6ef9cda3b80d8e2512dfec1461f39fb",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "9aba8d2d1413f9c06e25a04ff3af63bd9f6ca272c1963df7e106daca4afe433a",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "75132ab4eca67a2781cab9e24f8499b45ad15957429c2c30b92c3bc452cebbb2",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "4c93e8fa316979939ac4883022fe85a4c163ba47c45e22c1a204e279c5fb4961",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "65a972c29cd74de1f712569d01470f9a8913f25413862530b3139ecf49ca2f30",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "8fe30dc660efcc17ea3bd2328410145f077ae3155ce909a20b6c379409e49580",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "b0192bf0d17f53c0c61934d16af0cc426f5e7c2572d1d20420b3d5f169eb8747",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "bfde5a238cff9294f1d8234ebb2a4917252d6ad50e0882a02e67cf29bc1e2325",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "43df3a0d35d57c9b8a5125dfc7586368e0bafebc7f2fe8bf49c5156e3e3b0d4f",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "531de70681963eb870c30b20c77e73fd5ed3360b885289a1f121a0baf43c903f",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "ff6bce7cd8d7f0ef9d37250b0b6e9d693d5556db056846a74700d8e4828848d2",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "e8591960fbb28468619ace7628272434fb6f730693ee3b05eed46c0bdaf416e4",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "36607fe1124ff59ee000a0eba893cfb4252a8761fac77522e7713e38c41bff2f",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "9d55f1c292aaba97464cca0ba84269cd7356d7ee19966f66aa85aff291a3cbb3",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "ef966fac925fcdec8c35c45b49c38aca77a14ea3f3915cb6210436714abcfd01",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "b9946875c44f7339fa6200395fbfab36a48ad8afa514cd582bc853f0a40592ca",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "c217e00c45713e9facb85c8e0e8f8f493d703d4a024edb6b2eeacb7a9aa37165",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "d14f73c1595f31f106976be7d6adbdba7a393fdeb9dd1c900136a5de3d4d55f1",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "4f1eeaffbeda87a6b16bfe96cb0c40f97be51c20b25c2145d2667c96d7d52f9d",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "fa4c5475fe55356d783b37d18bc2e6b30d20e3319aa88142ac3a484a336ae10a",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "2ae1b3c1fd43a56ec5353ab7707286b895ed5bcfb129aa794f45045cba586726",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "12b03648beb4a5228873e800634287438fcad2872aff66b83f95d7787a059a68",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "ee5d98a23bb6a91f965e0eef3482b253cb4f9fafb2e8f190e8c198821c01c050",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "80546f68cafa4b8a5f0f5cdc814c4b129f31d12c5958722e1caf700060a3275e",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "0270bec0e482fcdb9fee6e6d55b36ae79b81109160889565fdb51e64caa8b481",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "faf26be5b98f64117989bfc02b052e9b3579f303b364ee839dadd8a7b34b7a37",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "b4b3bfd84165ab103489c27a3839167b45f397a061aea6fcdb29b2469bf9a72d",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "bc3d47a3fca43a5af46073af4521c55ef80a86d85f857efe4c3afb0d2f08b2b3",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "8c995c1733b613e876494ea9a6b8ee17d122081282f8bb8b9d274a7edf87039b",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "b475b209e70b444dfd9080c5e41cde04bed86e452af11b5ce05bb3fa78b62d17",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "80af22cf415981f2d7546c480800d380787adfbc63978fdafa544be464f0b850",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "ee8436a0eab16beb75da8151cdc92a8d2477da5b8a58263b0fc82c7a553796a0",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "42a10f5402a953003f11ffd73291c744870bd90c210cea06509d96e74ae7c9ce",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "2f6d77a9d1823b5bb0c1bb81eb7ec9a7b62497a04957304ceae58c4c42258734",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "138236f55a928822a79d2f9fd1f96b8bf9ad2b735a560c408047b72ffd018c14",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "c9a1bdd31c58958e2c6000a2d9488d373ce19542783858caef097d181573de1a",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "53b8cf14db4a2df1cc36463e3840bccdd0a9b1c9022032e6edb48b0b265ef311",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "ab414afbbbf06169e6b0898edf7f913a5785b1c6abe62b72841d98921797e49c",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "155aedb45c1dae84f535624a9c84dad126edf764995c3ad438d3452716bae963",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "c7ce4dce7c6eba9de62a4211db10f5022a594efbd50ce82b70ad8ad9352882a5",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "0030505f8ffa9e584d0dd1f265a927ce2a7266dbfef4fefc65451cab9af34bce",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "86d78c2cd08a40789d1793696349ad2123350d082a29e70900742efd92efdf91",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "db68982366a9869f0e62258db85a79f8558c038f01b83d476a6c09c7aed20cdd",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "10ba1561e061f672fbf0f7eedd86211024e69d800aef48cdcb49983eabf1325d",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "2201497448f3bd6a36b27cde8da09226f2edd70b0c2d964df3cfdbdb5eb2e32e",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "11682d613a20703b2a30c1ebb0474dac6c5f082d50b4298d5c582ce605bd4302",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "b214301e1857617e432e310bee65242925009ba9ded7092c6739b339841fda45",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "7eac153a279c1c460b17a2ef5fa06a24d1e88b730b4042db7d1fd52ec18a210d",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "ccaa4e847778329d92f4338e39b3663195437f4dcc24a8db7b972d0d93e083a3",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "8934fab378dfd36bb39c3332438903b2f6985cedb968c8380c543f6d00efc475",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "764b3c44bfa8e16bc464e27f1ae5ae54e0f36ae2e535cbe4b660b62a337393e3",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "ba0309d53f1f00ca4a7317c0a88ae3c0fc10609dbccc689d4b81ae7a00d3d0aa",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "b70160cda11cbfe65488c3c916784460320d62893a636d7cdc5b99d0485d992d",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "724e933555e0ba362397aed307b82a998c0fe80b56e61bebee44cd644cfde518",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "2f7468c4499a701eee2a5384e4780319c460e6af50705635f1f5114e4979b8de",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "a12adf9fd837266dcca2117f96c197f95c8b461984e553809b53512d16b58d00",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "f1a8189282731ea0e4fc9423429389a6347f4c6ea5084aba91d36a0b4d086cab",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "eb36a4c3a17e463029c8bc35b4ea803d719478f0ac14e35cbff1651699118bc4",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "c7ce4dce7c6eba9de62a4211db10f5022a594efbd50ce82b70ad8ad9352882a5",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "419a5ae00106133bb1ee1ef32d10271ca0ff0ce6863874646121ddcb38f7e8eb",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "38ea8e90c5bfc8715952dc3d7373dd49db65e8fb45a98bd091711d5ba95bcf16",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "2c2f3ea64a21d51fc2e4a1793ecc7dd0f507eb59a4965b1a575353a0ea6656ec",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "c60cdaeadb25d9524c5a804c01d3cfb0ab4c4f9799c82ba04594d54702fb6212",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "3409aa413283e449298c8ac585c8298fbb43436977ee603faaf5773b25ce7f5f",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "c79ac3bb270b414b8ba83039d200b138438835e47b78609b9efc8f6a496b29f0",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "3dc47b6f3041f996f31fa3fc134809f4eecd16a4fa5956676b43024786476390",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "29178583bbb4f1bf3e444b5f9e06eec427417d01865137585e35387fc75ee62a",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "c90aefd08719bb9e99bdfcf6f85405fa849553ca35825abd2544bc16406b5aa3",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "44a5638def9e9fdaddb6e202e32c3cc81e69217d87202635e976ec1262e1acc0",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "7d819495bc12aaa9546da6c7b8ecff533f0826d0b2c2fbdd5f0b092ca62f0705",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "c546f676ec2f893a253a2d318eafb30418da4fe40bae4e306f36a30788d865f6",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "7dfb85a8b1da66c47eeb0c9dad5c93f4b2d3674eaf7bd63331fe17dd51fe58ad",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "38c35e45ebf389a725ea6d537b7473f039a11a7dfec11d8adeada66e18368228",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "ae7ad669312fc5466610d0d67708624967eba0933f6b8f1e4e6599d6e68f70af",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "58b58fb7d44b193932be8cd36b292d3b1c28162b78d33f0abdfae6fcbab24f2d",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "ba2c1ded4b01d9ddf1fd7e69f183d93a4f888c8627d8c213f438eb3f44664a58",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "54de36772e4e26214a8dbfae9f0f54372d5094346ef42d5b8c7609321c47ac5e",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "accebdd27b0ddd5a9bed73be53d0222d3fabc4c57be25acddb0592e6ccad18ec",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "b7fc42d783c0815c8bbe1c32c437483dd63573e962c62f038f4ea7cd3681f841",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "d72b2e17590de8f56fa14892c2b674755b93bd9e9d72308a1c305c96169f2262",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "7d9ba073208c2c0cdc5b8a89b168639d5643bc70a9f658b199fe8b95ed29616f",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "cbdfba1d2fce8a279205532f5811be02beb13b954594f2d83c368edf3080db40",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "ba31e575a3ff17a5417dab2566b8ecedd450e616ad9ac1dc61a078675387b034",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "ccc400317c75caa22ebc0554145f6008f86153de99c3fc148d142ef899985b3a",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "25363a7093a5c9e35de16e9b98816f338b8f14cb6919c22af834dfb99570d574",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "7263e93c1390322a3aa395ab6b467191938834dac4e38b9d51d0b3b4aa19fbe8",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "05154823c8b93811ccdf8e166dad10deb2f37032b9f3d40fb58a23f3684de18c",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "860c2e8a8021520192036b147836f8723db3a9a53c377808a1ba4e23345a86e3",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "31f8c6638b33bb39a239d05fecad1009f2f51d4c717c82ef1546e07e8bd0e344",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "14e5f25907ea105fc019642f17582e88d88380e1d51ae5a64c6abbffc1226f9c",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "57e4f67ff7a059300353a61465b8fee4219c5903f0b6ae8347aa73ff03a55480",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "d836c85293248664acdd746c7dc2655d31086d0909696de01e327a4fcf264bb0",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "7fbee4ec5d3be7588b2bd42c061a969af93003a4a24e6385176c3ee48e1ebd94",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "94d383a8fb116be340b2af9f7adb383c945145dcaed80abc2c3411c03874f78f",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "f287e4f88161ec21acdf7982c48b551f92363e34082224c881a66aef7fe64b6c",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "79ad65d7e0b67098b2ab20367076cc8f2376d4898d0c7656586091a9a5cfe3ac",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "6671737e15f339992e46c783a39e156c5ffabf90a23d86d32ce2baf73a08e348",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "d5da133f0adf8636060a060ce55c8b5c2c9bed23714e701d0f660a03d042846d",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "9f36f056ef91833c73e57f0e9afbcc5b6cdd1916cacde418811e746702c205a8",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "4b26fe4ea092dbd28eca94b521ebff8d0d5c75b370be14cf76912f3648a2aa6e",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "2f6d77a9d1823b5bb0c1bb81eb7ec9a7b62497a04957304ceae58c4c42258734",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "f3802f58d9df9b73ad53e51e674aa697cae2b019e8de36c2aa8cd1661996cb75",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "fe1a402c16bc7b95f1c11b8c72935505aec333a55b2492d358143fa7b2c6bcd1",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "735afc5d6a3d2bdd904c543a1fd788b4bccb4afb1a909f2a57792720a6377023",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "9f541c52d3239aa6b6706cae018c77b8dea5d23605e1137f55100f58270f8f2c",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "368a6bcbbfe539e4422b8067bd373a2ecfe316a15fb07dac8833fd1dd002badc",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "788ba48ec2ed09c38d79e23d88eaaf16bb1fc5d12daefa44735ab8ed0dbabe6a",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "a36bd2f35ccf94bc54aa96b1e37ad211326ee8ba49c41435cd32bced68fc5d88",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "f8fa45de18f79589c0846f642efac374a662203b782459dcdda501838ed7283e",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "bb6db86ec2db54d267ed872b161c8a4f0809649055214c1e1bd0c29e57cae3ac",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "3e08cbb58df353db9a2b405ca3c7c17288f2381445f7bd42066fae8853d112c1",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "e02ff6fadfffd7633360c0619c42e0e4d2ba6dc8ad04812667eeafed975d4c1b",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "df9558ad8ff6fcd4cfbb9d24aea9c219e61d5a60d486ac9f69b9d3d819e2b401",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "049873fbe96e108b371fa5409311d0e98ec4d37b6221419fd934b6c0f69a7008",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "e40607d1cc2db2957a493fba5ab0a03cd8cd457088515bee32c05837593cfe8a",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "a3c808c01b329d4612137b8b8809d27b318bbb23bf267de2dce04fb7a7834c46",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "4ffb77d10679594971b2ad6e4d67d30eff9e18417a95313e1ccef1dd0cada07d",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "01d25e9a82ef2af8b4e21ec2f5ad6517ec7d5d6c6a298a22489ba9ee1bf7f450",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "d6b42af6cc0d19911b14984dbd8025d8e94a2c7623c63fcaa5f0307af70453f2",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "a8c218b65d388b4bb4daa1cbdb9c1284e01b5d4722baf69193087ed1d670070e",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "7338bbbc5517ecd64907f95ec243598e59f179c05010d81b5dfa658f92fb6076",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "2b15253c09187bb49e8dbf44c8e38ba5ccd5366a5d708d299b28666718a9e792",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "b17ae7f34fa1d7fd5bdd2cff4e435a53a5e9687bb9edb3bcf9d9c893ed2a6af7",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "8a0f486f0a49d9943b45a3170afadc81b7fbf9ae5cf720b0ab87876bb94b68b5",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "1bb976e1128d3b1fcfa36ad71f8c9fa6edad50fd3e639c6b4a6d9908a9d43864",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "1e712d899b25ff9f307670be365dad59523ca8972df99cddd592860d9f034184",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "cad1739d5c5691e30278c788bb033fb6a715dac7c23d891d59b1774d7052e542",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "e9e75b98873d6eaab7bf7f2f09929a562832dca59a0db06c8967639f851a8d5a",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "8b2fdc3ca21279045c9a909194870592ab50bebb37ab264db43e6608563847f2",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "1dc3af309e4f9f98495f73425d09e68bdb3d39d163639ba6e787e1a9646592ca",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "38c35e45ebf389a725ea6d537b7473f039a11a7dfec11d8adeada66e18368228",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "4029aed28c97138de390696e8862290f230b5b2af674113d592160895e581cda",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "6254c341c67688802e51b23958f444f52885baabeb5547fbea59741718019f7d",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "02b44d41c9acc6c0137bea3fa61e48ab32a13de65ce485dbc2d3935eaf29be4e",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "9d6dac99ca4e06494f958a9a290f14c4fb5c972d20ff1d9c42c90b266f3f9919",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "8dd9ea642f59fb1e07669db1b629b950820d48d4f4a1c5f70e1bb905899bd38c",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "12bb92906fa69276f6339fe2afdf0b6e7dd15071d01e66e91cf75552b42ae937",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "a2dcbbf524b9e95220d7b9365f43bb07b53647ec692b93f2bc64a3389d4fb405",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "2ae1b3c1fd43a56ec5353ab7707286b895ed5bcfb129aa794f45045cba586726",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "9a2f012938852dfe084c39419f0c85aabdc89f3fc859c12ebc34b18ce293db3e",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "e805d676d7cb1cb52592660378535e30cce4273d9210b137b1272fb0bd630fcb",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "fa18409130d397cacecf8dc67a33a703f760f923390eb741e11fe8ca42418388",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "691ce44e4b3293eb76d4f51927ed510c6d6fc6312f3f37f5a7968b70ff6b0162",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "6be682730bd413660ac55f434f767996f137d52bc79825d37102452f17a87803",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "71c745f5a6b5702ecd0d937406180013899edc2188625eb9e8fa35a143e03407",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "bc4c4fbfc0c18c3f871cb510f1b1ea38fdcb3811d32f46cfc09a28b9f1c4123f",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "b25251c031e739515e5547a01c05c79214efb955b8e21bac37b5a1b64765c074",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "ba31e575a3ff17a5417dab2566b8ecedd450e616ad9ac1dc61a078675387b034",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "ce61a13f230b7ba7dd5bc336b3020a06d4df32504924c186eb80b206ce2f81ef",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "4ffb77d10679594971b2ad6e4d67d30eff9e18417a95313e1ccef1dd0cada07d",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "850c9804f0a963ec580699e717961d8af479c4e4c6672382623d6965a3d8d381",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "e4be803eb96e16d24567cdb51c8259cf65883fbbf1a504ecc3083f0272d7abfb",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "6d5371e654ea405b066b320e555061eb451a2f958548cf363d8e7c2ba4d88b5d",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "71d597019bb72a2f4d017459651f2c9a6dd1fbc42cce620e2a16c30ad8ea0817",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "9bb328cf7088c27580e1d23a0ff8a15541da5f6c1135aa3d59282c45ab80817b",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "b3fb4fc796bd5735336a003ee2ff9d67ee6ecf3e80801cf6e327df6d414dba6a",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "f10bf39929ef63044ac4021ce49d92c32ceccc85d25c09bff22981713f4ce3ce",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "7de707d1cf37ffa3d434d01dcc83e268db9b0de9acb2546ecb025c26f02d4fe5",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "6cc30bd7257d99082c17935505ee9b1e3d92e407553762b576b74d9f66514d99",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "febf25117de8dbfb6dd8f4cd5c1c75c6fe8fb78608ee5bae79286a437486eb83",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "060f60c8edacbca8d8e3b8817470c75bd5b4680dcee1dc6f523ab75605ad6b8b",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "fa2b94fe84339208784ecb708a55d6bf6b8002dda943aea0abc996da7fc8a24b",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "694f3541ca77f18a028215370147dcf7e346756b883e66b43d14e971e5b25db7",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "5d58046e5cba50a18536248839db137901ebf4b5e8477e40e9260f52ed6b61e1",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "b33929d7e07e98c0da895b7d0d6da15f78fc7b89551ae85b4a2f829c8135906e",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "049873fbe96e108b371fa5409311d0e98ec4d37b6221419fd934b6c0f69a7008",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "247d967e3c51e4e14340285b96a0b1b23282fe693f477b383c3025130379434c",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "7e6636e25e58318f60bf36b79967e5f05193f1bdae684a166613ae7d1eb41524",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "10e29fa8c84008efe4f2efaf0248879728a7f7c9441a718d788b169e3047a824",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "bfde5a238cff9294f1d8234ebb2a4917252d6ad50e0882a02e67cf29bc1e2325",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "5414e966c33683d83402fde48df5303bf1485f9b4b076b710044e219f5febdfe",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "0e74023f26f2c4002790e2ae0046d44bf2d1dae9240bf17087f8b468eae542ed",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "088a5caa4f668dcfa22da04fa3088dd4e8486123a1e87bb148c3809aca50460a",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "d01ac862eb6f1b6e2500b67718ca069afe0ed4568587ab867dfde728aec5e2db",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "85e26fd49744bf6b10cb9873e01b1d0cdaf68d37b7636221fec9edfda32594ab",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "474e6831c008064f5f608f39c44cf8a0b953ed132c8e327658e16ecff05f246e",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "e4cb99aa4a3984d4c7647a2e04a828aabe16d75b1580dd847c49e1f7c1a1cc7c",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "14969c38857cb2711a4a7bf5ade185f2d4fd461ee6f5d979545cafeafe8cc942",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "8d1f3219454199924a76cbf7df39890828458ef44deebaeab3fb3046503408b0",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "308665bc030e486d22ffe9c34929b1f1263512ec3d794b3955ae5cd1d26cec4e",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "20566bd2c48b96308f72aea77a7e685053324896583fd6b4502698a898bf3028",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "422c3be0c102d33adaa4b193d6b0d2902420cd97b7982a49ccb1f1579a0ccd2d",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "1c046fc6bb2e9a2cb3bb7c09b60adea6424521d1e0e9437186baf5ed3beab220",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "802103c9d4a1b8b70ca18047033976d032ada0f73759c1d2327762f5c9c53353",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "43df3a0d35d57c9b8a5125dfc7586368e0bafebc7f2fe8bf49c5156e3e3b0d4f",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "83a1728d5245d0a38df7319ccdc6a839b28902789681f721f6dcb9d80669b464",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "069cd48ceb5badb9d92ccb3c248348e40f97370744c6e246138c288809f7a3b5",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "4552252df478318b7bcd138053efbe1fc7bb13f68fc51c51cacc064876e0b9f4",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "f2cd3a0714dd2ba8716ffbafad0ad3f6db6ee3f70b884fdbf46cc0023b44356e",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "e107308e120cf2e1070569b191485ac7b3a53a9ac2cfbf3d514e95d296587b8c",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "71fb1f50d6f3e0a90156e3ab042d84284f1a9e436ff21044bb2206ac91613136",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "c55384d0a258d2edcda4f8e8bd207121aba66964e1a07f918bb89f4d706bf66d",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "0fe1011b5744e2ecc2fff2ce800f687bdbf282af7a4a2ea8bbc9b2051f5e5ccc",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "eaf7e1615b42f5873ffe79824d0548aa682d328f32139d27a1e1b60e320ed016",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "b670e48b549bbc4f409a2d5f9dc69341483b88757e593cc066ffc5754caf4aa8",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "f0b4104129d25306c4f2c15684abbe4696c1336368007d6e0df6b67275590706",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "897733471c3b90ea26456fc8c7f09e763a0b9fdee29f68cc102bef0ed77876e6",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "a439feec15f020c1512cab3e40846563fe72ed02d6f8a90a4f39a1e2d4efff34",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "a03a07d87dc376b32f7e1b33642ea02b8c28058cbac5ea9d111bebbf08184f48",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "de25e7a21c9225a4ccbaf245cff7ea34089024bbbbbb6364124d18249d74ab41",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "8fe30dc660efcc17ea3bd2328410145f077ae3155ce909a20b6c379409e49580",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "f3802f58d9df9b73ad53e51e674aa697cae2b019e8de36c2aa8cd1661996cb75",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "c60cdaeadb25d9524c5a804c01d3cfb0ab4c4f9799c82ba04594d54702fb6212",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "c44d36113e6fc441f65cc3f149a15d5326fe3a70a7a86364fa4ee0cd3bcad564",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "c7582d9c248381ae154a57bab8a23a478fe22c290e3edaaaa4478f17554e8765",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "98b4c772bc6fc3c05d0070d95812ac68fa8f6eaf31041562f44579d60391089a",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "f51e8d7be0f50c3d44a8d9dc0a2a8266297a55990228c6af282467ab96b42f92",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "fe1a402c16bc7b95f1c11b8c72935505aec333a55b2492d358143fa7b2c6bcd1",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "1223323a20bc9cb27bbaed237d4957a920c807256bca07599633986d39f28d5f",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "6ba3ed2dca8927c09e3c3ff40dc8a138b95efbb9a35dc978b27fa11f5f0335ee",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "534b45606d7989b244e4f1546caecb17f41e7a96632c9ec7992a0a55e0513076",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "a8cbf77ff8dd1375b71808f267a88cf674bbd3c4d99e26ad6b3d6fa58131e688",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "b17ae7f34fa1d7fd5bdd2cff4e435a53a5e9687bb9edb3bcf9d9c893ed2a6af7",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "70921850c66a39648d994e667644812568554ccfe5c52ab392f2d4b6ae5ca693",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "7d9ba073208c2c0cdc5b8a89b168639d5643bc70a9f658b199fe8b95ed29616f",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "5cce1ebbfb617bd05e413acdde35eaf7c9dcbb1de23263ce972798280eedaf43",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "c7213c6786ceb7b80501ae53ffa47231d0e48fcd51b19289d05f15a4c8d4da39",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "a5a6d0a5a7ebc19b734ae976f9e89819488dafd7d42865f8bd9c6dc07b449d95",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "0be0adbabc5090c2b3bd1ef34db0e4c9082a91cc32962e77b34ddda6a17d8bba",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "bd7ef41454832c311c1224c4311c6d85f86cc38859d694f0c750d04236c2b549",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "8059805552a6f0585ff5bad7c0b31165927847e893925fc25ec7fcd968381dda",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "226c41ea5b47c8f7ed26e19e23db5144d67fe65878275b18255a885ea611f8c2",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "ff6bce7cd8d7f0ef9d37250b0b6e9d693d5556db056846a74700d8e4828848d2",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "f86feab8033bc9b4bce008f818d14ce59dd289d1facb77a3f45e365480c02dd7",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "3cd43eda62aff10c69aac5ebc6076eed7432791cff5057e2d4f2225777b6b247",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "06a3f03ccf5d95d520120d775f7c9af6742f9eca573dee3b32b2ef6baf9a1809",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "ce48b574b5c56c93f7db3a8afa3059f4ab5240b4899f9985d2d5f1ef586874fe",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "4c574f330505cf3fbca63351ab6bb1cab86ab7e6c2e5bd57fd76cda1e66ea955",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "eeb2033d424f80e76f21a6c7fc53f48f4420f273711a23eff2ff4194d573c3d7",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "0030505f8ffa9e584d0dd1f265a927ce2a7266dbfef4fefc65451cab9af34bce",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "1bef6f78421f8c28512956b6ce30db9f52cb4f5c0697c78d9cec64c907ecdf22",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "51d65ada0c68d7bc54949274b211adbde389d5a00d7cd1f448bb64fd7afdbe25",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "6f0f593ec4c1a565e57ab0ca0054298efaca598992bf7d6790be21642ebda155",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "474e6831c008064f5f608f39c44cf8a0b953ed132c8e327658e16ecff05f246e",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "1c1e4a00e108087390015d271bc9cbbf11e9dd87d3ee8beb94eabe9193cef9ad",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "f400187933071716bad754545a837aa121bb1c492c7fd0efd785604a56306e5f",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "8d406ee3a11aab770ccae24f1caf65cb111e9dcefbfb3e5355a3ff250234feb2",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "7fbc6cb116e1906b6108aea09c26a06bbf9fecac0da05a512e99bbcd444b97a8",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "b9ed48aa6488dec85bc7972c63ee3a3340762e1e2e0b303bc01312e4eeb42251",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "8de3f3b21cd93c193c8c588a04516adff3a753abfd1844c612c3012b951f26dd",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "c6983fc5572e0217f463711e8fa95008b51e4981a8e62eef22276c074a1b7690",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "b5fc46fe57c8f28ecaa768a8fdeb6f0ab80398abb9d0d38055002d1da7a569c2",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "ce46216065aa4946c95a1ba888f3c7c6349ec5c3e183e8fa4bd5389c4b751ca9",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "897733471c3b90ea26456fc8c7f09e763a0b9fdee29f68cc102bef0ed77876e6",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "f2ff4312fe6834167c6efd1cbc57d93f4cd4255c5d94e28d030c56d396b95e67",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "c4756c9b6e7e2695fbdaf8e08479aa21afa72c919d4ead2e0ab52853319b812a",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "da80ffb0cd381e66b31a039525925236002612d550a53d1a9fd8ff8e71be940a",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "35319815d460efeae260d92c57cf83cd867b0682a7c26cac6df2fa29ffaac0e4",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "7d9cec9669b7217696fccd7ee559b56c80905011ab10925f7ed0d4fcf199dce0",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "3085e1d609eecdca7782b5d0f8ceb663a4c2433cec8bab79c24544be953d7426",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "f03b2225898fc70815f2c0c8558df2cb96aafeea98f36d385750107e58435843",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "5c8b50e57bf6ca772db247fb1bc5717d6f46b3d97974d288498dde68af24f72d",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "59341161a1dd0146d1aa99d48c921ef57c39738ec9d9122f54124bd58d17b059",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "b1f294bdc7443136d6abf41e5af73dcc46079f0800b1b4b9c2705b0c713437d4",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "43f1b68082ffe61ab40030f7c21de65a980e241b72a47dad675120f21a546be0",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "d4e912e8714aff601ae24a9e1e093698ba7821e1b49f569411a49bece061166e",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "e97a9d7263b14be6faebe3734442a41f8a68e3a489b255423eafcbdc86423d9f",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "4819d3343e16e22c287627548aa7609b58d88805f8c37b9cc307d874463c2e3a",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "836f5c5f83b046c924f3676179b735ac11cad405b584650f40ce4fd8db5f5dd2",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "c546f676ec2f893a253a2d318eafb30418da4fe40bae4e306f36a30788d865f6",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "f0d0682552f208005f98186e97a904c1ae80a958a9b6da2e83f4627699399d3c",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "41cf59a511f4aa3ec947efbf2b0f90583af5704c86b0c8b82f3a7a737dc07356",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "df0830105d4dc843b6f98621ffd8ec44b7732b9ad1ff7661c9a6f34879d97493",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "ec766096c835806885fd9d8b41a24afad98473397ee99fc56087f50063e424e1",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "474e6831c008064f5f608f39c44cf8a0b953ed132c8e327658e16ecff05f246e",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "470eae8bee9faa022ae2d35b7e93185bf91ecf61962506f9f8315a403c0c1b3a",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "d1d83ad2b30a921e2d369a64b5228781c5514680b133d9bc550b7c6ac6811a18",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "e81dcca53aef78ddb9343edd0673e6c17fe4a8a59d230775eaa7b81a16b5d799",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "5569938697f2caef79b688e57c267ee3a4cadcc5196bf36b4e5181ae1ed2d673",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "a8c565f5c5c2a6c2a0eb391b9916fdf9d1e994b1ea544ebea52a26fc475391c5",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "6bd1889ac1abcc0955a153bfcefb80630e68f40d36ac8361c4293f45ae444395",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "c8dee1b76ba8d731d1d5d58f0ef82331f11a65b8e6c5a8328a194b830f2bf92f",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "3356d2a0c2d765b41bdae4a32abafb4b8f3b698458b573110785b8183bb05377",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "2636657bdb5ed7276afc31e72b314fdf725881b83cf85b44b3add045e1317301",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "6c4a9c30e1f6ae64100bdb41656b452ca61b68113f510001b4f4816595481eb7",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "94d383a8fb116be340b2af9f7adb383c945145dcaed80abc2c3411c03874f78f",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "af5811a98d6465aed442056dd03ed123c6a166a09214e421b813423969e9ca25",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "887240098a69f96ba1d0be92f408d3da71272675c8cab9abf8232cda9b9e659f",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "b8fda0f8be85fcda0cff085e840f7c0060a2abf5f53e31392a483915120202ca",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "5dbac37dc8bb45775fe16000382028a5f9971617cd1cc9ee5a3bb6ee7c2406b2",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "acf89aba7f0e6c005c1cc7b0521a74d6a4809c4dd180b1b1e5bc5c5dbf8222a6",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "2fb67145e1be2324edb913cb5d7adc492582b7df01113557eff38218531dc896",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "c41829d610fae359382ffb842c0df8ec8f9addb561acfb90d75ffe8052851434",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "a6145635476a7c488def926f40a8db785b6136ac4a774cd3f160b0aa4f020794",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "abfae82edc8614230ab53cd5e7f321830299c8877b8997008727d1ed6374191f",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "36607fe1124ff59ee000a0eba893cfb4252a8761fac77522e7713e38c41bff2f",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "5885326ef7172644b96f85aaef484e4729317cdb72d48271e22e3d01c48c7f42",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "c916fd8734836e071ffbd1ad8d66c63e7f57830ab6893d7b53b16bb2238e00f6",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "ec7ffed6ccc75474af5b346989746131316912290c639a26cf9cd083076d4288",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "057a2b00c6ad39a432e22ca2ab64505541ebf6840a54f56a90197a800f56abf3",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "1223323a20bc9cb27bbaed237d4957a920c807256bca07599633986d39f28d5f",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "db23f9b276bd192be08aa77eb5f33ef04d783796d8d3e1f01b6bef69eb65520c",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "2a9ce7ac226b02f68034869ff31481636c082224d01be726056c2c94c4607548",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "60b27f89a277eb53b89dff040d60520005a0c32190ae204fd626d975e3111d7c",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "1e2e0ed3a86b7663464568d2b44b9b785dfe0b0cdc42605cdb6ff403c78c8ba0",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "981b2f48e7405cf25a181ae4d82ff17c4826bb0b70d03e6d2096ff9835ae9fa7",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "7d9416443025803bf45dd7ed0702a2610ff0517f7788484b62ba5422e93486e2",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "4cd543390573fc011048cc246ed060d78bd87c77937cfab643c8627f9232b4fa",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "b8ef7fca1825ed304d755b128c52c106de9a2c94d35838d153c300130e2dc0ff",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "2dae5690a894fbecb8d9cf0930216e50c59f71b43875cd88f178ca5909706e3f",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "dc0b3d93e3f9200c119395710d64391f3bcdbd6ecff28396a55dea117b3f43c0",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "7058f20d4bff9d8e3043334ae6fc045813b53908efed7f99542ca2f23fffdb1a",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "a15c451373ca45e2a18b81813926e34af154d9c5efd9068e1034372e0b637688",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "75132ab4eca67a2781cab9e24f8499b45ad15957429c2c30b92c3bc452cebbb2",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "113b266f57f38466d278639cf4cfa2ae25b6fe55a38ccbd3e14d2456789c8d3d",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "31f8c6638b33bb39a239d05fecad1009f2f51d4c717c82ef1546e07e8bd0e344",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "db60fdf05eed6ed772aa61d8f71532afacc51c2c84ba35d94cc0c578010c7a1e",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "ce48b574b5c56c93f7db3a8afa3059f4ab5240b4899f9985d2d5f1ef586874fe",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "febf25117de8dbfb6dd8f4cd5c1c75c6fe8fb78608ee5bae79286a437486eb83",
+    "CodeCours": "TS_SN4"
+  },
+  {
+    "Etudiant": "891447fa8e06fab66a522bfbd330342f0d56fbf38af7eed2180446e6f4678f6e",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "09c469294b5cbc70e3062d22fb2e465f1f57f64c645e549c976f1bcb7536d90c",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "3d60ef602733f158a8b7f0451680a3f27b1e2f712a80ff4605b5208597e4a88a",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "eaf7e1615b42f5873ffe79824d0548aa682d328f32139d27a1e1b60e320ed016",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "aa859ef0b55338650bf4509628231c276ec1c5c494f0b8d2cf98f9938f310b24",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "87b289f0028fb0e1cf46b0c9f82fcc6594510b5b123deb5a61a45243fa80e3a1",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "1d1a4652ea8a19f24e40c9d14e4e62102c49094c9ade81416c6daae31a0f4c1e",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "1d9e56f0e2b47bb1f0600cabd2f6b3893a2980cd5d9ad469e32c6db1ef984145",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "124f24c85c7cec9bc474f84ecb89ec308a887b3fb20ef6b1850cc7dc6023c983",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "6d02c2f8ee3188b02edd2386ed33d78e4c455657e8fa808c2a456312e55e062b",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "287403469591510a48c327a06bd2f0c6170d92259a247e061b39b66c050c60d0",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "937f9ece0db38e11ef1ed5699b3120fcaf4875986d12518480eb094d60d76184",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "d2d5d7f8e720d3a3f1e9a880780ec8fa80f78cf464207603b8d278c3df4d11c8",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "f23ba27e9aac61ea13b9f1558d7d78f86c0b3fd4d26d7ea3ab6eaae519b7ccae",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "e1176082c709bbc41cb9e0f4604a44a8e12b125cdcf58d96a764420f33fad776",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "73087580c4b570d33e1ac6a8e532b384ddfa82b466ef4b96061c3e8be12063c2",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "9fc3ace4bb6f5e42d6c2e7659b4b67659efa4981ea4b23fccbd72d963cd04979",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "060f60c8edacbca8d8e3b8817470c75bd5b4680dcee1dc6f523ab75605ad6b8b",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "6749eefe533f6d486831b230decb160e3c68cb62b6859ddfc3250a089f91a756",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "e898741823f8fa45caf103414fda819cd4974a14a32e22b8e94971a3329d41ce",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "493d4627a958f2606f3e0f17e4608e8aaddd8171cb25b6c9881b5e9921e40914",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "cd781239c5af49ab8d2e0ed537ab58e1a4af08558187a70780451172819f919c",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "1e712d899b25ff9f307670be365dad59523ca8972df99cddd592860d9f034184",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "14969c38857cb2711a4a7bf5ade185f2d4fd461ee6f5d979545cafeafe8cc942",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "8fe30dc660efcc17ea3bd2328410145f077ae3155ce909a20b6c379409e49580",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "750738f9c0264727f552a7667f969847657309590a0477c4a87eb34823817946",
+    "CodeCours": "TS_SN5"
+  },
+  {
+    "Etudiant": "7119ef1db005f2fb24f033c4b74c91ce32b0122586653ee827c8a79e6fe860ed",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "36d3f003ddeb421fbf2290bdba33ff4d212fdb6452a40a029b1333e033d82f1a",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "9f36f056ef91833c73e57f0e9afbcc5b6cdd1916cacde418811e746702c205a8",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "2ae1b3c1fd43a56ec5353ab7707286b895ed5bcfb129aa794f45045cba586726",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "2fb67145e1be2324edb913cb5d7adc492582b7df01113557eff38218531dc896",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "86d78c2cd08a40789d1793696349ad2123350d082a29e70900742efd92efdf91",
+    "CodeCours": "514+"
+  },
+  {
+    "Etudiant": "c76ff10b8a797baedb7f1e973193a7ec659c49955cc2b31e8841468aad3d5bf0",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "512833831869349544c7855bca4a592db3c721324faa9dc6ef9bd885674b1fb2",
+    "CodeCours": "536"
+  },
+  {
+    "Etudiant": "c41829d610fae359382ffb842c0df8ec8f9addb561acfb90d75ffe8052851434",
+    "CodeCours": "526+"
+  },
+  {
+    "Etudiant": "2fa5c286ef9fb569d57e105c21571d14d5ce548790de80516293101d512bc33a",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "54848975fcc686a616f0c2273a3922dab67fc633ab538741674ae068f14bce74",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "3c58e0fdac7f4cc8ec523d0666389beee0a1bbf6d6925db3d6927d22345a76be",
+    "CodeCours": "436"
+  },
+  {
+    "Etudiant": "ba2c1ded4b01d9ddf1fd7e69f183d93a4f888c8627d8c213f438eb3f44664a58",
+    "CodeCours": "TS4_SN4+"
+  },
+  {
+    "Etudiant": "ce61a13f230b7ba7dd5bc336b3020a06d4df32504924c186eb80b206ce2f81ef",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "bce8a39ae02f37df39048d98c9f5cee0ec0e87d84ee73361fef1b088ed8716d5",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "30f86c40080749435549cf3d548d2ef166281fafb5b8de4867c07f4e5f03f264",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "0ff89a48ef6bc0881967daa21d2dce0122296398792a542532e54924d281575c",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "670cb15200c312c89e39af18ec3ebf591687809634b91ffd21a111b29002cbc8",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "c217e00c45713e9facb85c8e0e8f8f493d703d4a024edb6b2eeacb7a9aa37165",
+    "CodeCours": "526"
+  },
+  {
+    "Etudiant": "59341161a1dd0146d1aa99d48c921ef57c39738ec9d9122f54124bd58d17b059",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "308665bc030e486d22ffe9c34929b1f1263512ec3d794b3955ae5cd1d26cec4e",
+    "CodeCours": "CST5"
+  },
+  {
+    "Etudiant": "54f30bf3078b5f47cdd8e1373fc1948f730576c60acecf9d0aeb591c00b07f67",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "21ea33c969f855264d9aabcef7e6ffb849df4ca7f062d0f8ad2baf449fd43e9f",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "21af8c123b775333d3495e44a650226841b8f471f25dcd1e1821399b8b93d2a1",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "d196e08489e66626610b1b56450110e82ca1c53f3b491a584a7d690b25cd0c2a",
+    "CodeCours": "SN4"
+  },
+  {
+    "Etudiant": "17ed81879b7e9c834e6ba0eb0adf17a57321790ffc423111025ddababb6e8314",
+    "CodeCours": "TS5"
+  },
+  {
+    "Etudiant": "812cb2401b023cb32824c3b06d5a527f85fd9fee1a98cf88330f5c9826d58890",
+    "CodeCours": "514"
+  },
+  {
+    "Etudiant": "fa5e510ee645b07e9419f9f22fa5359c0e1635f361d1dd84892848fb23e75ecc",
+    "CodeCours": "514"
+  }
+]

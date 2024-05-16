@@ -1,0 +1,40 @@
+@inject IViewLocalizer Localizer
+@using Microsoft.AspNetCore.Mvc.Localization
+@model Web.ViewModels.Authentication.LoginViewModel
+
+@{
+    ViewData["Title"] = Localizer["Title"];
+}
+
+<form autocomplete="off" asp-route="Login" class="form card js-form" novalidate>
+    <h1 class="form__title h3-like">@Localizer["FormTitle"]</h1>
+
+    <div class="form__field">
+        <input type="text" asp-for="UserName" class="js-input" required aria-invalid="false" aria-describedby="error__login-username"/>
+        <label asp-for="UserName">@Localizer["UsernamePlaceholder"]</label>
+        <span class="form__error-message" id="error__login-username">
+            @Localizer["EmptyError"]
+        </span>
+    </div>
+
+    <div class="form__field">
+        <input type="password" asp-for="Password" class="js-input" required aria-invalid="false" aria-describedby="error__login-password"/>
+        <label asp-for="Password">@Localizer["PasswordPlaceholder"]</label>
+        <span class="form__error-message" id="error__login-password">
+            @Localizer["EmptyError"]
+        </span>
+        <a href="/forgotpassword" class="form__link">@Localizer["ForgotPasswordLink"]</a>
+    </div>
+    <input asp-for="ReturnUrl" class="form-control" style="display: none"/>
+
+    <button class="form__submit btn" type="submit">
+        @Localizer["LoginButton"]
+    </button>
+</form>
+
+<script type="text/javascript" defer="defer">
+    try {
+        localStorage.clear();
+        sessionStorage.clear();
+    } catch (_) {}
+</script>

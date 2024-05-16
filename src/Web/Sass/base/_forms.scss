@@ -1,0 +1,80 @@
+.form {
+  //Structuring elements -----------------------
+  &__title {
+    text-align: center;
+
+    &:not(:last-child) {
+      margin-bottom: 40px;
+    }
+  }
+
+  &__field {
+    display: flex;
+    flex-direction: column;
+    font-size: rem(14);
+    line-height: rem(24);
+
+    &:not(:last-child) {
+      margin-bottom: 24px;
+    }
+
+    //Errors ------------------
+    &.error input {
+      border-color: $color-red;
+      background-color: transparentize($color: $color-red, $amount: 0.9);
+
+      + label {
+        color: $color-red;
+
+        + .form__error-message {
+          display: block;
+        }
+      }
+    }
+  }
+
+  &__link {
+    margin-top: 4px;
+    color: $color-green;
+    width: fit-content;
+    @include underlineHover($color-green, 1px);
+  }
+
+  &__error-message {
+    display: none;
+    color: $color-red;
+  }
+
+  &__submit {
+    margin: 16px auto 0;
+  }
+
+  //Inputs ---------------------------------------
+  label {
+    transition: color 0.2s cb(snappy);
+    color: $color-grey-medium;
+    order: -1;
+  }
+
+  input {
+    border: 1px solid $color-border;
+    border-radius: $common-border-radius;
+    padding: 8px;
+    transition: border-color 0.2s cb(snappy), background-color 0.2s cb(snappy);
+    background-color: $color-grey-lighter;
+    line-height: normal;
+
+    @media (hover: hover) {
+      &:focus,
+      &:hover {
+        outline: none;
+        border-color: $color-green;
+        background-color: $color-white;
+
+        + label {
+          color: $color-green;
+        }
+      }
+    }
+  }
+}

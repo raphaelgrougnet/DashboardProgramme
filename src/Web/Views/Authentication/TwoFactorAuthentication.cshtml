@@ -1,0 +1,29 @@
+@inject IViewLocalizer Localizer
+@using Microsoft.AspNetCore.Mvc.Localization
+@model Web.ViewModels.Authentication.TwoFactorViewModel
+
+@{
+    ViewData["Title"] = Localizer["Title"];
+}
+
+<form autocomplete="off" asp-action="TwoFactorAuthentication" method="post" class="form card js-form" novalidate>
+    <h1 class="form__title h3-like">@Localizer["Title"]</h1>
+    <div class="form__field">
+        <input type="text" asp-for="TwoFactorCode" class="js-input" required aria-invalid="false" aria-describedby="error__login-code"/>
+        <label asp-for="TwoFactorCode">@Localizer["Code"]</label>
+        <span class="form__error-message" id="error__login-code">
+        </span>
+    </div>
+    <div class="tooltip tooltip--form">
+        <div class="tooltip__cta">
+            <span class="icon icon--blue js-svg" data-name="icon__help"></span>
+
+            <div class="rte rte--small-m-common">
+                @Localizer["Description"]
+            </div>
+        </div>
+    </div>
+    <input asp-for="UserName" class="form-control" style="display: none"/>
+    <input asp-for="ReturnUrl" class="form-control" style="display: none"/>
+    <button class="btn btn-primary" type="submit">@Localizer["Login"]</button>
+</form>

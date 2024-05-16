@@ -1,0 +1,46 @@
+@use "sass:math";
+
+//Some generics styles, to have the app styling when using app localhost.
+@import // tools
+'tools/functions',
+'tools/colors',
+'tools/variables',
+'tools/mixins',
+'tools/easings',
+'tools/mediaqueries',
+  //base
+'base/reset',
+'base/fontface',
+'base/globals';
+
+
+//Using more specificity to win against main website and override when necessary
+#app {
+  @import 'base/typography',
+  'base/forms',
+  'base/util',
+  'base/icon',
+  'plugins/vue-notification',
+  'plugins/vue-quill',
+  'plugins/vue3-easy-data-table',
+  'plugins/vue-tippy',
+    //blocks ----------------------------------
+  'blocks/back-link-title',
+  'blocks/breadcrumbs',
+  'blocks/btn',
+  'blocks/card',
+  'blocks/content-grid',
+  'blocks/content-grid',
+  'blocks/dashboard',
+  'blocks/form-errors-list',
+  'blocks/loader',
+  'blocks/navbar',
+  'blocks/plus-sign',
+  'blocks/popup',
+  'blocks/progress-ring',
+  'blocks/search-input',
+  'blocks/subnav',
+  'blocks/tag',
+  'blocks/text-link',
+  'blocks/tooltip';
+}

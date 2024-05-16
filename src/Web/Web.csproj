@@ -1,0 +1,164 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <PreserveCompilationContext>true</PreserveCompilationContext>
+        <TargetFramework>net8.0</TargetFramework>
+        <LangVersion>12</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Content Remove="Views\Emails\NewMember.cshtml"/>
+        <Content Update="Web.develop.config">
+            <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+            <CopyToPublishDirectory>Never</CopyToPublishDirectory>
+        </Content>
+        <Content Update="Web.main.config">
+            <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+            <CopyToPublishDirectory>Never</CopyToPublishDirectory>
+        </Content>
+        <Content Update="Web.staging.config">
+            <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+            <CopyToPublishDirectory>Never</CopyToPublishDirectory>
+        </Content>
+        <Content Update="vue-app\public\favicon.ico">
+            <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+            <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+        </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Core.Flash" Version="2.1.1"/>
+        <PackageReference Include="FastEndpoints" Version="5.20.1"/>
+        <PackageReference Include="FastEndpoints.Security" Version="5.20.1"/>
+        <PackageReference Include="FastEndpoints.Swagger" Version="5.20.1"/>
+        <PackageReference Include="LateApexEarlySpeed.Json.Schema" Version="1.1.2"/>
+        <PackageReference Include="MathNet.Numerics" Version="6.0.0-beta1"/>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.26">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.11"/>
+        <PackageReference Include="Sentry" Version="3.31.0"/>
+        <PackageReference Include="Sentry.Serilog" Version="3.31.0"/>
+        <PackageReference Include="Serilog" Version="2.12.0"/>
+        <PackageReference Include="Serilog.AspNetCore" Version="6.0.1"/>
+        <PackageReference Include="Serilog.Sinks.Console" Version="4.1.0"/>
+        <PackageReference Include="Serilog.Sinks.File" Version="5.0.0"/>
+    </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="..\Domain\Domain.csproj"/>
+        <ProjectReference Include="..\Infrastructure\Infrastructure.csproj"/>
+        <ProjectReference Include="..\Persistence\Persistence.csproj"/>
+    </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="..\Domain\Domain.csproj"/>
+        <ProjectReference Include="..\Persistence\Persistence.csproj"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <EmbeddedResource Update="Resources\Controllers\AuthenticationController.resx">
+            <Generator>ResXFileCodeGenerator</Generator>
+            <LastGenOutput>AuthenticationController.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Resources\Controllers\ForgotPasswordController.resx">
+            <Generator>ResXFileCodeGenerator</Generator>
+            <LastGenOutput>ForgotPasswordController.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Resources\Controllers\ResetPasswordController.resx">
+            <Generator>ResXFileCodeGenerator</Generator>
+            <LastGenOutput>ResetPasswordController.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Resources\Controllers\UserInviteController.resx">
+            <Generator>ResXFileCodeGenerator</Generator>
+            <LastGenOutput>UserInviteController.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Resources\Views\Authentication\Login.resx">
+            <Generator>ResXFileCodeGenerator</Generator>
+            <LastGenOutput>Login.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Resources\Views\Authentication\TwoFactorAuthentication.resx">
+            <Generator>ResXFileCodeGenerator</Generator>
+            <LastGenOutput>TwoFactorAuthentication.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Resources\Views\ForgotPassword\Index.resx">
+            <Generator>ResXFileCodeGenerator</Generator>
+            <LastGenOutput>Index.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Resources\Views\Home\Index.resx">
+            <Generator>ResXFileCodeGenerator</Generator>
+            <LastGenOutput>Index.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Resources\Views\ResetPassword\Index.resx">
+            <Generator>ResXFileCodeGenerator</Generator>
+            <LastGenOutput>Index.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+    </ItemGroup>
+
+    <ItemGroup>
+        <Compile Update="Resources\Controllers\AuthenticationController.Designer.cs">
+            <DesignTime>True</DesignTime>
+            <AutoGen>True</AutoGen>
+            <DependentUpon>AuthenticationController.resx</DependentUpon>
+        </Compile>
+        <Compile Update="Resources\Controllers\ForgotPasswordController.Designer.cs">
+            <DesignTime>True</DesignTime>
+            <AutoGen>True</AutoGen>
+            <DependentUpon>ForgotPasswordController.resx</DependentUpon>
+        </Compile>
+        <Compile Update="Resources\Controllers\ResetPasswordController.Designer.cs">
+            <DesignTime>True</DesignTime>
+            <AutoGen>True</AutoGen>
+            <DependentUpon>ResetPasswordController.resx</DependentUpon>
+        </Compile>
+        <Compile Update="Resources\Controllers\UserInviteController.Designer.cs">
+            <DesignTime>True</DesignTime>
+            <AutoGen>True</AutoGen>
+            <DependentUpon>UserInviteController.resx</DependentUpon>
+        </Compile>
+        <Compile Update="Resources\Views\Authentication\Login.Designer.cs">
+            <DesignTime>True</DesignTime>
+            <AutoGen>True</AutoGen>
+            <DependentUpon>Login.resx</DependentUpon>
+        </Compile>
+        <Compile Update="Resources\Views\Authentication\TwoFactorAuthentication.Designer.cs">
+            <DesignTime>True</DesignTime>
+            <AutoGen>True</AutoGen>
+            <DependentUpon>TwoFactorAuthentication.resx</DependentUpon>
+        </Compile>
+        <Compile Update="Resources\Views\ForgotPassword\Index.Designer.cs">
+            <DesignTime>True</DesignTime>
+            <AutoGen>True</AutoGen>
+            <DependentUpon>Index.resx</DependentUpon>
+        </Compile>
+        <Compile Update="Resources\Views\Home\Index.Designer.cs">
+            <DesignTime>True</DesignTime>
+            <AutoGen>True</AutoGen>
+            <DependentUpon>Index.resx</DependentUpon>
+        </Compile>
+        <Compile Update="Resources\Views\ResetPassword\Index.Designer.cs">
+            <DesignTime>True</DesignTime>
+            <AutoGen>True</AutoGen>
+            <DependentUpon>Index.resx</DependentUpon>
+        </Compile>
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Update="before-deploy.ps1">
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </None>
+        <None Update="deploy.ps1">
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+
+    <ItemGroup>
+        <Folder Include="Features\Members\GetMember\"/>
+        <Folder Include="vue-app\src\components\diagrammes\"/>
+        <Folder Include="wwwroot\assets"/>
+        <Folder Include="wwwroot\css"/>
+        <Folder Include="wwwroot\icons"/>
+        <Folder Include="wwwroot\js"/>
+    </ItemGroup>
+</Project>

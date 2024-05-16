@@ -1,0 +1,34 @@
+.breadcrumbs {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: rem(14);
+  margin-bottom: 8px;
+
+  &__breadcrumb {
+    color: $color-grey-medium;
+    display: flex;
+    align-items: center;
+
+    a {
+      @include colorHover($color-green);
+    }
+
+    &::after {
+      content: "/";
+      margin-left: 8px;
+    }
+  }
+
+  &__active {
+    font-weight: 700;
+  }
+}
+
+//Breakpoints ==================================
+@include breakpoint(sm-up) {
+  .breadcrumbs {
+    margin: 0;
+  }
+}

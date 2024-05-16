@@ -1,0 +1,82 @@
+// typography
+
+// Titles
+h1 {
+  text-transform: uppercase;
+  font-family: $font-montserrat;
+  font-weight: 700;
+  font-size: rem(32);
+  line-height: rem(36);
+
+  @include breakpoint(md-up) {
+    font-size: rem(64);
+    line-height: rem(64);
+  }
+}
+
+h2,
+.h2-like {
+  text-transform: uppercase;
+  font-family: $font-montserrat;
+  font-weight: 600;
+  font-size: rem(32);
+  line-height: rem(40);
+
+  @include breakpoint(md-up) {
+    font-size: rem(48);
+    line-height: rem(56);
+  }
+}
+
+h3,
+.h3-like {
+  font-family: $font-montserrat;
+  font-weight: 600;
+  font-size: rem(24);
+  line-height: rem(32);
+
+  @include breakpoint(md-up) {
+    font-size: rem(32);
+  }
+}
+
+h4,
+.h4-like {
+  font-weight: 700;
+  font-size: rem(22);
+  line-height: rem(22);
+  text-transform: none;
+}
+
+h5,
+.h5-like {
+  font-size: rem(16);
+  line-height: rem(24);
+  font-weight: 700;
+  text-transform: none;
+  color: $color-grey-medium;
+}
+
+.subtitle {
+  font-weight: 800;
+  text-transform: uppercase;
+  color: $color-green;
+  font-size: rem(16);
+  line-height: rem(18);
+  font-family: $font-karla;
+  display: block;
+}
+
+// text standard styles
+a {
+  text-decoration: none;
+}
+
+p {
+  a:not(.btn) {
+    color: $color-green;
+    text-decoration: underline;
+    @include underlineHover($color-green, 1px);
+    font-weight: 800;
+  }
+}

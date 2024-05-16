@@ -1,0 +1,51 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <data name="PasswordSavedSuccessfully" xml:space="preserve">
+        <value>The password was successfully saved.</value>
+    </data>
+    <data name="PasswordRequirements" xml:space="preserve">
+        <value>The password must meet the following requirements:</value>
+    </data>
+    <data name="PasswordTooShort" xml:space="preserve">
+        <value>Must contain at least 10 characters</value>
+    </data>
+    <data name="PasswordRequiresUpper" xml:space="preserve">
+        <value>Must contain a uppercase letter</value>
+    </data>
+    <data name="PasswordRequiresLowercase" xml:space="preserve">
+        <value>Must contain a lowercase letter</value>
+    </data>
+    <data name="PasswordRequiresDigit" xml:space="preserve">
+        <value>Must contain a number</value>
+    </data>
+    <data name="PasswordRequiresNonAlphanumeric" xml:space="preserve">
+        <value>Must contain a special character</value>
+    </data>
+    <data name="PasswordRequiresUniqueChars" xml:space="preserve">
+        <value>Must contain 6 unique characters</value>
+    </data>
+    <data name="InviteNotFound" xml:space="preserve">
+        <value>Could not find invite with specified id.</value>
+    </data>
+    <data name="UserWithInviteNotFound" xml:space="preserve">
+        <value>Could not find user with this invite.</value>
+    </data>
+    <data name="UserInviteWasAlreadyAccepted" xml:space="preserve">
+        <value>This user invite was already accepted.</value>
+    </data>
+</root>

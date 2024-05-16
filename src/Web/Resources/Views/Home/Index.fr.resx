@@ -1,0 +1,75 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <data name="SignedInAs" xml:space="preserve">
+        <value>Vous êtes connecté en tant que</value>
+    </data>
+    <data name="NotSignedIn" xml:space="preserve">
+        <value>Vous n'êtes pas connecté</value>
+    </data>
+    <data name="SignIn" xml:space="preserve">
+        <value>Se connecter</value>
+    </data>
+    <data name="SignOut" xml:space="preserve">
+        <value>Se déconnecter</value>
+    </data>
+    <data name="Issued" xml:space="preserve">
+        <value>Émis</value>
+    </data>
+    <data name="Expires" xml:space="preserve">
+        <value>Expire</value>
+    </data>
+    <data name="FirstName" xml:space="preserve">
+        <value>Prénom</value>
+    </data>
+    <data name="LastName" xml:space="preserve">
+        <value>Nom</value>
+    </data>
+    <data name="OrganizationEnterpriseNumber" xml:space="preserve">
+        <value>Numéro d'entreprise (NEQ)</value>
+    </data>
+    <data name="OrganizationMemberNumber" xml:space="preserve">
+        <value>Numéro de membre</value>
+    </data>
+    <data name="OrganizationName" xml:space="preserve">
+        <value>Nom de l'organisation</value>
+    </data>
+    <data name="OrganizationMemberCount" xml:space="preserve">
+        <value>Nombre de membres dans l'organisation</value>
+    </data>
+    <data name="Members" xml:space="preserve">
+        <value>membre(s)</value>
+    </data>
+    <data name="PhoneNumber" xml:space="preserve">
+        <value>Numéro de téléphone</value>
+    </data>
+    <data name="Address" xml:space="preserve">
+        <value>Adresse</value>
+    </data>
+    <data name="OrganizationContactCount" xml:space="preserve">
+        <value>Nombre de contacts</value>
+    </data>
+    <data name="Contacts" xml:space="preserve">
+        <value>contact(s)</value>
+    </data>
+    <data name="JobTitle" xml:space="preserve">
+        <value>Titre du poste</value>
+    </data>
+    <data name="Title" xml:space="preserve">
+        <value>Accueil</value>
+    </data>
+</root>

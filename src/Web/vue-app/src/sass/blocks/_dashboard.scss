@@ -1,0 +1,43 @@
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  background-color: $color-grey-lighter;
+
+  &__navbar,
+  &__content {
+    @include pagePadding();
+  }
+
+  &__navbar {
+    background-color: $color-green;
+    position: sticky;
+    top: calc($header-height-scroll - 37px); //minus height of navbar title.
+    z-index: $zindex-subheader;
+  }
+
+  &__content {
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+}
+
+//Breakpoints ==================================
+@include breakpoint(md-up) {
+  .dashboard {
+    display: grid;
+    min-height: 100vh;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 3fr);
+
+    &__navbar {
+      padding-top: 52px; //64 - padding of navlinks (12)
+      padding-bottom: 64px;
+      padding-right: 16px;
+    }
+
+    &__content {
+      padding-top: 64px;
+      padding-bottom: 64px;
+      padding-left: $gutter-width;
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "jetbrains.rider@latest": {
+      "last_modified": "2024-01-27T14:55:31Z",
+      "resolved": "github:NixOS/nixpkgs/160b762eda6d139ac10ae081f8f78d640dd523eb#jetbrains.rider",
+      "source": "devbox-search",
+      "version": "2023.3.2"
+    },
+    "mono@latest": {
+      "last_modified": "2024-02-24T23:06:34Z",
+      "resolved": "github:NixOS/nixpkgs/9a9dae8f6319600fa9aebde37f340975cab4b8c0#mono",
+      "source": "devbox-search",
+      "version": "6.12.0.182",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/2rw2qn61hxnjrbfp968iqil3pnwan2rn-mono-6.12.0.182"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/l7x6jmxh22s1kyknxgf6cznw4xypa4xx-mono-6.12.0.182"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/kn2c2fckmbhgflnasj2lzwmwbjmxbwnv-mono-6.12.0.182"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/79cc03qsp63r50vg5h0wx11s62h9m0sy-mono-6.12.0.182"
+        }
+      }
+    },
+    "nodePackages.gulp": {
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#nodePackages.gulp",
+      "source": "nixpkg"
+    },
+    "nodePackages.sass": {
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#nodePackages.sass",
+      "source": "nixpkg"
+    },
+    "nodePackages.yarn": {
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#nodePackages.yarn",
+      "source": "nixpkg"
+    },
+    "nodejs_18@latest": {
+      "last_modified": "2024-01-14T03:55:27Z",
+      "resolved": "github:NixOS/nixpkgs/dd5621df6dcb90122b50da5ec31c411a0de3e538#nodejs_18",
+      "source": "devbox-search",
+      "version": "18.19.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/jvp3jsc9dwn64ycnjalw959811lj7x3g-nodejs-18.19.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/qlpzl41kfq83cdd4qkcpw8dy2zsd6acr-nodejs-18.19.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/arx8by5hks81q82m161lmrbf9mdb09fw-nodejs-18.19.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/6fy84r0hj7vdqzdzjn9gva18fzdl510z-nodejs-18.19.0"
+        }
+      }
+    }
+  }
+}

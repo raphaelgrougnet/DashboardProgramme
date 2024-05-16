@@ -1,0 +1,48 @@
+.alert {
+  display: flex;
+  gap: 16px;
+  color: $color-grey-medium;
+  margin-bottom: 16px;
+  background-color: $color-white;
+  border-radius: $common-border-radius;
+  padding: 24px 40px;
+  border: 1px solid $color-green;
+  background-color: #f1fff2;
+
+  &::before {
+    content: "";
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    background-image: url(/icons/icon__check.svg);
+  }
+
+  button {
+    position: absolute;
+    line-height: 0;
+    padding: 16px;
+    top: 0;
+    right: 0;
+  }
+
+  &-warning {
+    background-color: #ffe6e8;
+    border-color: $color-red;
+
+    &::before {
+      background-image: url(/icons/icon__error.svg);
+    }
+  }
+}
+
+//Breakpoints ==================================
+@include breakpoint(sm-up) {
+  .alert {
+    align-items: center;
+
+    &::before {
+      width: 40px;
+      height: 40px;
+    }
+  }
+}

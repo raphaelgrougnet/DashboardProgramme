@@ -1,0 +1,55 @@
+.btn {
+  display: flex;
+  gap: 12px;
+  padding: 12px 8px;
+  font-size: rem(13);
+  line-height: rem(15);
+  font-weight: 700;
+  background-color: $color-green-light;
+  border: 1px solid $color-green;
+  border-radius: $common-border-radius;
+  cursor: pointer;
+  width: fit-content;
+  @include btnHover($color-green, $color-text);
+  text-transform: none;
+  color: $color-text;
+
+  //States ----------
+  &--red {
+    border-color: $color-red;
+    background-color: transparentize($color: $color-red, $amount: 0.5);
+    @include btnHover($color-red, $color-text)
+  }
+
+  &--square {
+    padding: 4px;
+
+    .icon {
+      width: 16px;
+      height: 16px;
+    }
+  }
+
+  &:disabled,
+  &--disabled {
+    pointer-events: none;
+    background-color: $color-grey-light;
+    border-color: $color-grey;
+    color: $color-grey;
+  }
+
+  &--fullscreen {
+    width: 100%;
+    justify-content: center;
+  }
+
+  &--icon-translate-hover {
+    @media (hover: hover) {
+      &:hover {
+        .icon {
+          transform: translate3d(2px, 0, 0);
+        }
+      }
+    }
+  }
+}

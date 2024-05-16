@@ -1,0 +1,305 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "436": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non",
+              "En Cours",
+              "en cours"
+            ]
+          },
+          "514": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non",
+              "En Cours",
+              "en cours"
+            ]
+          },
+          "526": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non",
+              "En Cours",
+              "en cours"
+            ]
+          },
+          "536": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non",
+              "En Cours",
+              "en cours"
+            ]
+          },
+          "Code permanent crypté": {
+            "type": "string",
+            "minLength": 64,
+            "maxLength": 64
+          },
+          "Grille": {
+            "type": "string",
+            "pattern": "^[0-9]{3}[A-Z][A-Z0-9]-2[0-9]{3}-[0-9]$"
+          },
+          "SPE": {
+            "type": "integer",
+            "enum": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          "Numéro de programme": {
+            "type": "string",
+            "pattern": "^[0-9]{3}[.][A-Z][A-Z0-9]$"
+          },
+          "Titre programme": {
+            "type": "string",
+            "minLength": 1
+          },
+          "Nombre d'heures de cours dans la session": {
+            "type": "number"
+          },
+          "Tour d'admission": {
+            "type": "integer",
+            "enum": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          "Population": {
+            "type": "string",
+            "enum": [
+              "A",
+              "B",
+              "I"
+            ]
+          },
+          "Sanction collégiale": {
+            "type": "string",
+            "enum": [
+              "non",
+              "Non",
+              "DEC préuniversitaire",
+              "DEC technique"
+            ]
+          },
+          "GENMELS": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100
+          },
+          "SN4": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non",
+              "En Cours",
+              "en cours"
+            ]
+          },
+          "TS_SN4": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non",
+              "En Cours",
+              "en cours"
+            ]
+          },
+          "TS4_SN4+": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non",
+              "En Cours",
+              "en cours"
+            ]
+          },
+          "CST5": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non",
+              "En Cours",
+              "en cours"
+            ]
+          },
+          "TS_SN5": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non",
+              "En Cours",
+              "en cours"
+            ]
+          },
+          "TS5": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non",
+              "En Cours",
+              "en cours"
+            ]
+          },
+          "514+": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non",
+              "En Cours",
+              "en cours"
+            ]
+          },
+          "526+": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non",
+              "En Cours",
+              "en cours"
+            ]
+          },
+          "Renforcement en français": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non"
+            ]
+          },
+          "Étudiant international": {
+            "type": "string",
+            "enum": [
+              "CC",
+              "RP",
+              "RT"
+            ]
+          },
+          "Étudiant assujetti au R18": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non"
+            ]
+          },
+          "Services adaptés": {
+            "type": "string",
+            "enum": [
+              "Oui",
+              "Non",
+              "oui",
+              "non"
+            ]
+          },
+          "Cours inscrits actuellement": {
+            "type": "string",
+            "pattern": "(^$)|(^([A-Z0-9]{3}[A-Z0-9]{3}[A-Z0-9]{2})(; ?[A-Z0-9]{3}[A-Z0-9]{3}[A-Z0-9]{2})*$)"
+          },
+          "Cours inscrits session passé": {
+            "type": "string",
+            "pattern": "(^$)|(aucune donnée)|(^([A-Z0-9]{3}[A-Z0-9]{3}[A-Z0-9]{2};([ABCDE]|Aucun résultat))(; ?[A-Z0-9]{3}[A-Z0-9]{3}[A-Z0-9]{2};([ABCDE]|Aucun résultat))*$)"
+          }
+        },
+        "required": [
+          "436",
+          "514",
+          "526",
+          "536",
+          "Code permanent crypté",
+          "Grille",
+          "SPE",
+          "Numéro de programme",
+          "Titre programme",
+          "Nombre d'heures de cours dans la session",
+          "Tour d'admission",
+          "Population",
+          "Sanction collégiale",
+          "GENMELS",
+          "SN4",
+          "TS_SN4",
+          "TS4_SN4+",
+          "CST5",
+          "TS_SN5",
+          "TS5",
+          "514+",
+          "526+",
+          "Renforcement en français",
+          "Étudiant international",
+          "Étudiant assujetti au R18",
+          "Services adaptés",
+          "Cours inscrits actuellement",
+          "Cours inscrits session passé"
+        ]
+      }
+    },
+    "sheetName": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "records",
+    "sheetName"
+  ],
+  "definitions": {
+    "OuiNon": {
+      "type": "string",
+      "enum": [
+        "Oui",
+        "Non",
+        "oui",
+        "non",
+        "En Cours",
+        "en cours"
+      ]
+    }
+  }
+}

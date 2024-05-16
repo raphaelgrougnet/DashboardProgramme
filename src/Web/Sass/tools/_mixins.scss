@@ -1,0 +1,126 @@
+// mixins
+
+// paddings ----------------------------------------------------
+@mixin pagePaddingLeft {
+  padding-left: $page-padding-small;
+
+  @include breakpoint(sm-up) {
+    padding-left: $page-padding-medium;
+  }
+
+  @include breakpoint(md-up) {
+    padding-left: $page-padding-large;
+  }
+}
+
+@mixin pagePaddingRight {
+  padding-right: $page-padding-small;
+
+  @include breakpoint(sm-up) {
+    padding-right: $page-padding-medium;
+  }
+
+  @include breakpoint(md-up) {
+    padding-right: $page-padding-large;
+  }
+}
+
+@mixin pagePadding() {
+  @include pagePaddingLeft();
+  @include pagePaddingRight();
+}
+
+// typography --------------------------------------------------
+@mixin text--body {
+  font-family: $font-karla;
+  font-weight: 500;
+  font-size: rem(16);
+  line-height: rem(20);
+}
+
+// misc ----------------------------------------------------------
+@mixin bgCover($pos: center) {
+  background-repeat: no-repeat;
+  background-position: $pos;
+  background-size: cover;
+}
+
+@mixin defaultBgImage() {
+  background-color: $color-grey-lighter;
+  background-blend-mode: multiply;
+  @include bgCover;
+
+  &::before {
+    content: "";
+    display: block;
+    background: linear-gradient(90deg, $color-grey-lighter, transparent);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    inset: 0;
+  }
+}
+
+//Hover -------------------------------------------------------------
+@mixin underlineHover($color, $height) {
+  &::after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: $height;
+    bottom: 0;
+    left: 0;
+    background-color: $color;
+    transform: scale3d(0, 1, 0);
+    transition: transform 0.2s cb(snappy);
+    transform-origin: top left;
+  }
+
+  @media (hover: hover) {
+    &:hover {
+      &::after {
+        transform: scale3d(1, 1, 1);
+      }
+    }
+  }
+}
+
+@mixin btnHover($bg-color, $text-color, $border-color: transparent) {
+  transition: color 0.2s cb(snappy), background-color 0.2s cb(snappy),
+  border-color 0.2s cb(snappy);
+
+  @media (hover: hover) {
+    &:hover {
+      background-color: $bg-color;
+      border-color: $border-color;
+      color: $text-color;
+
+      .btn__icon {
+        background-color: $bg-color;
+      }
+
+      .icon {
+        & * {
+          fill: $text-color;
+        }
+      }
+    }
+  }
+}
+
+//Btns ---------------------------------------------------------------
+@mixin fullBtn($bg-color, $text-color) {
+  background-color: $bg-color;
+  color: $text-color;
+
+  .icon * {
+    fill: $text-color;
+  }
+
+  @include btnHover(
+                  transparentize($color: $bg-color, $amount: 0.95),
+                  $bg-color,
+                  $bg-color
+  );
+}

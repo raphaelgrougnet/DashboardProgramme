@@ -1,0 +1,31 @@
+.btn {
+  display: flex;
+  width: 100%;
+  font-family: $font-montserrat;
+  font-weight: 700;
+  font-size: rem(16);
+  line-height: rem(16);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 32px;
+  border: 2px solid transparent;
+  border-radius: 0;
+  text-transform: uppercase;
+  @include fullBtn($color-green, $color-black);
+
+  //States ----------
+  &:disabled,
+  &--disabled {
+    pointer-events: none;
+    background-color: $color-grey-light;
+    color: $color-grey-medium;
+  }
+}
+
+//Breakpoints ==================================
+@include breakpoint(sm-up) {
+  .btn {
+    width: 100%;
+  }
+}

@@ -1,0 +1,37 @@
+﻿@inject IViewLocalizer Localizer
+@using Microsoft.AspNetCore.Mvc.Localization
+@model Web.ViewModels.ResetPassword.ResetPasswordViewModel
+
+@{
+    ViewData["Title"] = Localizer["Title"];
+}
+
+<form autocomplete="off" method="post" asp-route="Index" class="form card js-form" novalidate>
+
+    @if (!string.IsNullOrWhiteSpace(Model.RedirectUrl))
+    {
+        <script>
+            setTimeout(function () {
+               window.location.href = "@Model.RedirectUrl";
+            }, 5000);
+        </script>
+    }
+
+    <a asp-controller="Authentication" asp-action="Login" aria-label="@Localizer["GoBackToLoginLink"]" class="card__return">
+        <span class="icon js-svg" data-name="icon__arrow"></span>
+    </a>
+
+    <h1 class="form__title h3-like">@Localizer["FormTitle"]</h1>
+
+    <div class="form__field">
+        <input type="password" asp-for="Password" class="js-input" required aria-invalid="false" aria-describedby="error__reset-password" autofocus/>
+        <label asp-for="Password">@Localizer["PasswordPlaceholder"]</label>
+        <span class="form__error-message" id="error__reset-password">
+            @Localizer["YouMustEnterANewPassword"]
+        </span>
+    </div>
+
+    <button class="form__submit btn" type="submit">
+        @Localizer["ResetPasswordButton"]
+    </button>
+</form>

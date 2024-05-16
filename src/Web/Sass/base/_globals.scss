@@ -1,0 +1,24 @@
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  color: $color-text;
+  @include text--body;
+  position: relative;
+  height: auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow-x: hidden;
+
+  &.noscroll {
+    overflow: hidden !important;
+  }
+}
+
+hr {
+  border-top: 1px solid $color-border;
+}

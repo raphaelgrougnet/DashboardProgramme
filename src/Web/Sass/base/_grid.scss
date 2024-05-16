@@ -1,0 +1,179 @@
+// grid
+$gutter-width: 2rem; //32px
+
+@mixin gutter() {
+  padding-left: math.div($gutter-width, 2);
+  padding-right: math.div($gutter-width, 2);
+}
+
+@mixin gutter-offset() {
+  margin-left: - math.div($gutter-width, 2);
+  margin-right: - math.div($gutter-width, 2);
+}
+
+@mixin grid($prefix) {
+  &#{$prefix}12 {
+    width: 100%
+  }
+  &#{$prefix}11 {
+    width: 91.66%
+  }
+  &#{$prefix}10 {
+    width: 83.33%
+  }
+  &#{$prefix}9 {
+    width: 75%
+  }
+  &#{$prefix}8 {
+    width: 66.66%
+  }
+  &#{$prefix}7 {
+    width: 58.33%
+  }
+  &#{$prefix}6 {
+    width: 50%
+  }
+  &#{$prefix}5 {
+    width: 41.66%
+  }
+  &#{$prefix}4 {
+    width: 33.33%
+  }
+  &#{$prefix}3 {
+    width: 25%
+  }
+  &#{$prefix}2 {
+    width: 16.66%
+  }
+  &#{$prefix}1 {
+    width: 8.33%
+  }
+
+  &#{$prefix}offset-11 {
+    margin-left: 91.66%
+  }
+  &#{$prefix}offset-10 {
+    margin-left: 83.33%
+  }
+  &#{$prefix}offset-9 {
+    margin-left: 75%
+  }
+  &#{$prefix}offset-8 {
+    margin-left: 66.66%
+  }
+  &#{$prefix}offset-7 {
+    margin-left: 58.33%
+  }
+  &#{$prefix}offset-6 {
+    margin-left: 50%
+  }
+  &#{$prefix}offset-5 {
+    margin-left: 41.66%
+  }
+  &#{$prefix}offset-4 {
+    margin-left: 33.33%
+  }
+  &#{$prefix}offset-3 {
+    margin-left: 25%
+  }
+  &#{$prefix}offset-2 {
+    margin-left: 16.66%
+  }
+  &#{$prefix}offset-1 {
+    margin-left: 8.33%
+  }
+  &#{$prefix}offset-0 {
+    margin-left: 0
+  }
+
+  &#{$prefix}sticky {
+    height: 100%;
+    position: sticky;
+    top: 32px;
+  }
+
+  &#{$prefix}marg-a {
+    margin: auto;
+  }
+
+  &#{$prefix}pad-b {
+    padding-bottom: $gutter-width;
+  }
+
+  &#{$prefix}no-pad-b {
+    padding-bottom: 0;
+  }
+}
+
+.grid__row {
+  display: flex;
+  flex-wrap: wrap;
+  @include gutter-offset();
+
+  &--jcc {
+    justify-content: center;
+  }
+
+  &--jcsa {
+    justify-content: space-around;
+  }
+
+  &--jcsb {
+    justify-content: space-between;
+  }
+
+  &--aic {
+    align-items: center;
+  }
+
+  &--aife {
+    align-items: flex-end;
+  }
+
+  &--cancel-bottom-cols-pad-b {
+    margin-bottom: -$gutter-width;
+  }
+
+  &--reverse {
+    flex-direction: row-reverse;
+  }
+}
+
+[class*="grid__col"] {
+  float: left; // If flexbox is not supported, float will apply. For <=IE9
+  width: 100%;
+  @include gutter();
+
+  &.grid__col--no-pad {
+    padding: 0;
+  }
+
+  &.grid__col--pad-b {
+    padding-bottom: $gutter-width;
+  }
+}
+
+
+.grid__col {
+  @include grid("--");
+
+  @include breakpoint(xs-up) {
+    @include grid("--xs-");
+  }
+
+  @include breakpoint(sm-up) {
+    @include grid("--sm-");
+  }
+
+  @include breakpoint(md-up) {
+    @include grid("--md-");
+  }
+
+  @include breakpoint(lg-up) {
+    @include grid("--lg-");
+  }
+
+  @include breakpoint(xlg-up) {
+    @include grid("--xlg-");
+  }
+}

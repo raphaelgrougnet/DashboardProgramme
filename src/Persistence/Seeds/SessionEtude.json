@@ -1,0 +1,92 @@
+[
+  {
+    "Annee": 2018,
+    "Saison": "Hiver",
+    "Slug": "H18"
+  },
+  {
+    "Annee": 2018,
+    "Saison": "Ete",
+    "Slug": "E18"
+  },
+  {
+    "Annee": 2018,
+    "Saison": "Automne",
+    "Slug": "A18"
+  },
+  {
+    "Annee": 2019,
+    "Saison": "Hiver",
+    "Slug": "H19"
+  },
+  {
+    "Annee": 2019,
+    "Saison": "Ete",
+    "Slug": "E19"
+  },
+  {
+    "Annee": 2019,
+    "Saison": "Automne",
+    "Slug": "A19"
+  },
+  {
+    "Annee": 2020,
+    "Saison": "Hiver",
+    "Slug": "H20"
+  },
+  {
+    "Annee": 2020,
+    "Saison": "Ete",
+    "Slug": "E20"
+  },
+  {
+    "Annee": 2020,
+    "Saison": "Automne",
+    "Slug": "A20"
+  },
+  {
+    "Annee": 2021,
+    "Saison": "Hiver",
+    "Slug": "H21"
+  },
+  {
+    "Annee": 2021,
+    "Saison": "Ete",
+    "Slug": "E21"
+  },
+  {
+    "Annee": 2021,
+    "Saison": "Automne",
+    "Slug": "A21"
+  },
+  {
+    "Annee": 2022,
+    "Saison": "Hiver",
+    "Slug": "H22"
+  },
+  {
+    "Annee": 2022,
+    "Saison": "Ete",
+    "Slug": "E22"
+  },
+  {
+    "Annee": 2022,
+    "Saison": "Automne",
+    "Slug": "A22"
+  },
+  {
+    "Annee": 2023,
+    "Saison": "Hiver",
+    "Slug": "H23"
+  },
+  {
+    "Annee": 2023,
+    "Saison": "Ete",
+    "Slug": "E23"
+  },
+  {
+    "Annee": 2023,
+    "Saison": "Automne",
+    "Slug": "A23"
+  }
+]

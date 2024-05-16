@@ -1,0 +1,27 @@
+﻿@inject IViewLocalizer Localizer
+@using Microsoft.AspNetCore.Mvc.Localization
+@model Web.ViewModels.ForgotPassword.ForgotPasswordViewModel
+
+@{
+    ViewData["Title"] = Localizer["Title"];
+}
+
+<form autocomplete="off" asp-route="Index" class="form card js-form" novalidate>
+    <a asp-controller="Authentication" asp-action="Login" aria-label="@Localizer["GoBackToLoginLink"]" class="card__return">
+        <span class="icon js-svg" data-name="icon__arrow"></span>
+    </a>
+
+    <h1 class="form__title h3-like">@Localizer["FormTitle"]</h1>
+
+    <div class="form__field">
+        <input type="email" asp-for="UserName" class="js-input" required aria-invalid="false" aria-describedby="error__reset-email" autofocus/>
+        <label asp-for="UserName">@Localizer["EmailPlaceholder"]</label>
+        <span class="form__error-message" id="error__reset-email">
+            @Localizer["YouMustEnterYourEmail"]
+        </span>
+    </div>
+
+    <button class="form__submit btn" type="submit">
+        @Localizer["ResetPasswordButton"]
+    </button>
+</form>

@@ -1,0 +1,274 @@
+[
+  {
+    "Code": "420-04A-FX",
+    "Nom": "Introduction à la programmation"
+  },
+  {
+    "Code": "420-05A-FX",
+    "Nom": "Interfaces Web"
+  },
+  {
+    "Code": "420-06A-FX",
+    "Nom": "Milieu de l’ informatique"
+  },
+  {
+    "Code": "420-05B-FX",
+    "Nom": "Développement Web côté client"
+  },
+  {
+    "Code": "420-07B-FX",
+    "Nom": "Introduction aux bases de données"
+  },
+  {
+    "Code": "420-14B-FX",
+    "Nom": "Programmation orientée objet"
+  },
+  {
+    "Code": "420-16B-FX",
+    "Nom": "Système d’exploitation Windows et sécurité"
+  },
+  {
+    "Code": "420-05C-FX",
+    "Nom": "Développement d’applications Web"
+  },
+  {
+    "Code": "420-06C-FX",
+    "Nom": "Réseaux et soutien informatique"
+  },
+  {
+    "Code": "420-08C-FX",
+    "Nom": "Projet d’approfondissement en programmation"
+  },
+  {
+    "Code": "420-14C-FX",
+    "Nom": "Programmation avancée et sécurité"
+  },
+  {
+    "Code": "420-08D-FX",
+    "Nom": "Projet d’approfondissement Web"
+  },
+  {
+    "Code": "420-14D-FX",
+    "Nom": "Programmation pour mobiles"
+  },
+  {
+    "Code": "420-15D-FX",
+    "Nom": "Applications Web et sécurité"
+  },
+  {
+    "Code": "420-16D-FX",
+    "Nom": "Système d’exploitation Linux"
+  },
+  {
+    "Code": "420-06E-FX",
+    "Nom": "Veille technologique"
+  },
+  {
+    "Code": "420-07E-FX",
+    "Nom": "Programmation pour base de données"
+  },
+  {
+    "Code": "420-08E-FX",
+    "Nom": "Projet intégrateur"
+  },
+  {
+    "Code": "420-14E-FX",
+    "Nom": "Conception et qualité logicielle"
+  },
+  {
+    "Code": "420-02F-FX",
+    "Nom": "Stage en entreprise"
+  },
+  {
+    "Code": "420-12Y-FX",
+    "Nom": "Activité synthèse de programme"
+  },
+  {
+    "Code": "412-155-FX",
+    "Nom": "Traitement de texte"
+  },
+  {
+    "Code": "412-163-FX",
+    "Nom": "Bureautique, profession et spécialisation"
+  },
+  {
+    "Code": "412-174-FX",
+    "Nom": "Gestion de l’agenda et outils bureautiques"
+  },
+  {
+    "Code": "412-193-FX",
+    "Nom": "Présentation multimédia"
+  },
+  {
+    "Code": "412-223-FX",
+    "Nom": "Français au bureau I"
+  },
+  {
+    "Code": "412-233-FX",
+    "Nom": "Traduction administrative"
+  },
+  {
+    "Code": "412-245-FX",
+    "Nom": "Système de gestion de bases de données"
+  },
+  {
+    "Code": "412-333-FX",
+    "Nom": "Français au bureau II"
+  },
+  {
+    "Code": "412-344-FX",
+    "Nom": "Typographie et mise en page"
+  },
+  {
+    "Code": "412-353-FX",
+    "Nom": "Communication d’affaires en français"
+  },
+  {
+    "Code": "412-415-FX",
+    "Nom": "Traitement de données"
+  },
+  {
+    "Code": "412-424-FX",
+    "Nom": "Gestion de documents et procédures"
+  },
+  {
+    "Code": "412-513-FX",
+    "Nom": "Édition Web"
+  },
+  {
+    "Code": "412-52B-FX",
+    "Nom": "Stage d’intégration I"
+  },
+  {
+    "Code": "412-533-FX",
+    "Nom": "Soutien à la gestion des ressources humaines"
+  },
+  {
+    "Code": "412-614-FX",
+    "Nom": "Soutien à la gestion des ressources matérielles et financières"
+  },
+  {
+    "Code": "412-623-FX",
+    "Nom": "Français au bureau III"
+  },
+  {
+    "Code": "412-634-FX",
+    "Nom": "Anglais au bureau II"
+  },
+  {
+    "Code": "412-64A-FX",
+    "Nom": "Stage en milieu de travail"
+  },
+  {
+    "Code": "412-919-FX",
+    "Nom": "Stage d’intégration II"
+  },
+  {
+    "Code": "410-01A-FX",
+    "Nom": "Introduction aux organisations"
+  },
+  {
+    "Code": "410-124-FX",
+    "Nom": "Droit commercial et international"
+  },
+  {
+    "Code": "410-144-FX",
+    "Nom": "Initiation à la comptabilité informatisée"
+  },
+  {
+    "Code": "410-223-FX",
+    "Nom": "Gestion du fonds de roulement"
+  },
+  {
+    "Code": "410-234-FX",
+    "Nom": "Comptabilité financière I"
+  },
+  {
+    "Code": "410-243-FX",
+    "Nom": "L’entreprise"
+  },
+  {
+    "Code": "410-324-FX",
+    "Nom": "Comptabilité financière II"
+  },
+  {
+    "Code": "410-344-FX",
+    "Nom": "Gestion et supervision des ressources humaines"
+  },
+  {
+    "Code": "410-354-FX",
+    "Nom": "Gestion des approvisionnements et de la qualité"
+  },
+  {
+    "Code": "410-524-FX",
+    "Nom": "Analyse financière"
+  },
+  {
+    "Code": "410-414-FX",
+    "Nom": "L’entreprise de classe mondiale"
+  },
+  {
+    "Code": "410-424-FX",
+    "Nom": "Performance financière"
+  },
+  {
+    "Code": "410-454-FX",
+    "Nom": "Comptabilité de gestion"
+  },
+  {
+    "Code": "410-623-FX",
+    "Nom": "Gestion de projet"
+  },
+  {
+    "Code": "410-543-FX",
+    "Nom": "Marketing interne"
+  },
+  {
+    "Code": "410-553-FX",
+    "Nom": "Fiscalité des particuliers"
+  },
+  {
+    "Code": "410-563-FX",
+    "Nom": "Comptabilité spécialisée"
+  },
+  {
+    "Code": "410-573-FX",
+    "Nom": "Système comptable informatisé"
+  },
+  {
+    "Code": "410-584-FX",
+    "Nom": "Transactions internationales"
+  },
+  {
+    "Code": "410-313-FX",
+    "Nom": "Méthode de recherche commerciale"
+  },
+  {
+    "Code": "410-Z1E-FX",
+    "Nom": "Projet entrepreneurial"
+  },
+  {
+    "Code": "410-25F-FX",
+    "Nom": "Stage en comptabilité et en gestion"
+  },
+  {
+    "Code": "410-633-FX",
+    "Nom": "Fiscalité des sociétés"
+  },
+  {
+    "Code": "410-644-FX",
+    "Nom": "Contrôle interne et vérification"
+  },
+  {
+    "Code": "410-664-FX",
+    "Nom": "Méthodes et outils de gestion"
+  },
+  {
+    "Code": "410-443-FX",
+    "Nom": "Démarrage d’une entreprise"
+  },
+  {
+    "Code": "410-Z2F-FX",
+    "Nom": "Plan d’affaires"
+  }
+]

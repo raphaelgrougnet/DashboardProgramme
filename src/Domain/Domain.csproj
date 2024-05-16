@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <TargetFramework>net8.0</TargetFramework>
+        <LangVersion>12</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="AutoMapper" Version="12.0.1"/>
+        <PackageReference Include="LateApexEarlySpeed.Json.Schema" Version="1.1.2"/>
+        <PackageReference Include="MediatR" Version="11.0.0"/>
+        <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0"/>
+        <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.26"/>
+        <PackageReference Include="MySql.Data" Version="8.0.31"/>
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.2"/>
+        <PackageReference Include="NodaTime" Version="3.0.9"/>
+        <PackageReference Include="Stripe.net" Version="41.16.0"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <Folder Include="Records\"/>
+    </ItemGroup>
+
+</Project>

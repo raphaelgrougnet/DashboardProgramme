@@ -1,0 +1,59 @@
+.notifications {
+  position: sticky;
+  top: 0;
+  z-index: $zindex-popup;
+}
+
+.vue-notification-group {
+  margin: 16px;
+  position: absolute;
+}
+
+//based on message-banner
+.notification {
+  max-width: 650px;
+  margin: 4px;
+  box-shadow: $small-shadow;
+
+  &__content {
+    display: flex;
+    gap: 16px;
+    background-color: $color-white;
+    border-radius: $common-border-radius;
+    border: 1px solid $color-green;
+    padding: 16px;
+  }
+
+  &__icon {
+    flex-shrink: 0;
+
+    .icon {
+      width: 24px;
+      height: 24px;
+    }
+  }
+
+  &__text {
+    color: $color-grey-medium;
+  }
+
+  &__value {
+    font-weight: 700;
+  }
+}
+
+//Breakpoints ==================================
+@include breakpoint(sm-up) {
+  .notification {
+    &__content {
+      align-items: center;
+    }
+
+    &__icon {
+      .icon {
+        width: 40px;
+        height: 40px;
+      }
+    }
+  }
+}

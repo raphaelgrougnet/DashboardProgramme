@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"
+                id="root"
+                xmlns="">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <data name="EmailPlaceholder" xml:space="preserve">
+        <value>Email</value>
+    </data>
+    <data name="ResetPasswordButton" xml:space="preserve">
+        <value>Reset my password</value>
+    </data>
+    <data name="YouMustEnterYourEmail" xml:space="preserve">
+        <value>You must enter your email.</value>
+    </data>
+    <data name="Title" xml:space="preserve">
+        <value>Forgot password</value>
+    </data>
+    <data name="FormTitle" xml:space="preserve">
+        <value>Forgot password ?</value>
+    </data>
+    <data name="GoBackToLoginLink" xml:space="preserve">
+        <value>Go back to login page</value>
+    </data>
+</root>

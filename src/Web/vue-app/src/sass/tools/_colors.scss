@@ -1,0 +1,21 @@
+// colors
+$color-white: #ffffff;
+$color-black: #000000;
+
+$color-grey-darker: #1A1A1A;
+$color-grey-dark: #232323;
+$color-grey-medium: #5C5C5C;
+$color-grey: #d3d3d3;
+$color-grey-light: #EFEFEF;
+$color-grey-lighter: #F8F8F8;
+
+$color-green-medium: #63AE2B;
+$color-green: #7AC142;
+$color-green-light: #ABEFAA;
+$color-green-lighter: #F0FAFE;
+
+$color-red: #ED1B2D;
+
+$color-text: $color-black;
+$color-border: transparentize($color-grey-medium, 0.8);
+$color-shadow: transparentize($color-black, 0.9);

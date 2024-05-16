@@ -1,0 +1,67 @@
+.content-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+
+  &__header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 24px;
+  }
+
+  &__filters {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+
+    input[type="checkbox"] {
+      background-color: transparent;
+    }
+  }
+}
+
+//Breakpoints ==================================
+@include breakpoint(sm-up) {
+  .content-grid {
+    gap: 32px;
+
+    &--subpage {
+      margin-top: -44px; //keep a 20px padding for breadcrumbs.
+      gap: 24px;
+    }
+
+    &--double {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    }
+
+    &--triple {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      grid-template-areas:
+        "one two"
+        "three two";
+
+      *:nth-child(2) {
+        grid-area: two;
+      }
+    }
+  }
+}
+
+@include breakpoint(lg-up) {
+  .content-grid {
+    &--subpage {
+      max-width: 83.33%;
+    }
+
+    &--subpage-table {
+      max-width: 100%;
+    }
+
+    &--triple-small-right {
+      grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+    }
+  }
+}

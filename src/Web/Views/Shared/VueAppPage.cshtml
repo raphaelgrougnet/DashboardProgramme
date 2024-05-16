@@ -1,0 +1,12 @@
+﻿@using Web.Extensions
+@{
+    Layout = "_VueAppLayout";
+}
+
+@if (Context.IsAuthenticated())
+{
+    <div id="app" :to="@ViewData["CurrentUrl"]">
+        <router-view>
+        </router-view>
+    </div>
+}

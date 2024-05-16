@@ -1,0 +1,412 @@
+{
+  "routes": {
+    "home": {
+      "path": "/fr",
+      "fullPath": "/fr",
+      "name": "Accueil"
+    },
+    "programme": {
+      "path": "/fr/programme",
+      "fullPath": "/fr/programme",
+      "name": "Mes programmes",
+      "children": {
+        ":id": {
+          "path": ":id",
+          "fullPath": "/fr/programme/:programme",
+          "name": "Détails d'un programme",
+          "children": {
+            "session": {
+              "path": "session",
+              "fullPath": "/fr/programme/:programme/session",
+              "name": "Liste des sessions",
+              "children": {
+                ":id": {
+                  "path": ":id",
+                  "fullPath": "/fr/programme/:programme/session/:session",
+                  "name": "Session d'un programme",
+                  "children": {
+                    "cours": {
+                      "path": "cours",
+                      "fullPath": "/fr/programme/:programme/session/:session/cours",
+                      "name": "Liste des cours",
+                      "children": {
+                        ":id": {
+                          "path": ":id",
+                          "fullPath": "/fr/programme/:programme/session/:session/cours/:cours",
+                          "name": "Cours d'une session"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "admin": {
+      "path": "/fr/administration",
+      "fullPath": "/fr/administration",
+      "name": "Administration",
+      "children": {
+        "members": {
+          "path": "members",
+          "fullPath": "/fr/administration/membres",
+          "name": "Membres",
+          "add": {
+            "path": "ajouter",
+            "fullPath": "/fr/administration/membres/ajouter",
+            "name": "Ajouter un membre"
+          },
+          "edit": {
+            "path": ":id/modifier",
+            "fullPath": "/fr/administration/membres/:id/modifier",
+            "name": "Modifier un membre"
+          },
+          "delete": {
+            "path": ":id/delete",
+            "fullpath": "/fr/administration/membres/:id/supprimer",
+            "name": "Supprimer un membre"
+          }
+        },
+        "programmes": {
+          "path": "programmes",
+          "fullPath": "/fr/administration/programmes",
+          "name": "Programmes",
+          "add": {
+            "path": "ajouter",
+            "fullPath": "/fr/administration/programmes/ajouter",
+            "name": "Ajouter un programme"
+          },
+          "edit": {
+            "path": ":id/modifier",
+            "fullPath": "/fr/administration/programmes/:id/modifier",
+            "name": "Modifier un programme"
+          }
+        }
+      }
+    },
+    "cours": {
+      "path": "/fr/programme/:numeroProgramme/session/:slugSession/cours/:codeCours",
+      "fullPath": "/fr/programme/:numeroProgramme/session/:slugSession/cours/:codeCours",
+      "name": "Cours"
+    },
+    "import": {
+      "path": "/fr/importer_donnees",
+      "fullPath": "/fr/importer_donnees",
+      "name": "Importer"
+    }
+  },
+  "products": {
+    "form": {
+      "image-card-tooltip": "Format recommandé : largeur supérieur à 700px (ratio 2:1)",
+      "image-page-tooltip": "Format recommandé : largeur supérieur à 700px (ratio 5:4).",
+      "image-card": "Image - Carte",
+      "image-page": "Image - Page",
+      "image-text-fr": "Bandeau sur l'image - FR",
+      "image-text-en": "Bandeau sur l'image - EN",
+      "description-fr": "Description - FR",
+      "description-en": "Description - EN",
+      "name-fr": "Nom - FR",
+      "name-en": "Nom - EN",
+      "price": "Prix",
+      "no-taxes": "(Hors taxes)",
+      "category": "Catégorie",
+      "fieldset-informations-default": "Informations sur le produit"
+    }
+  },
+  "user": {
+    "roles": {
+      "admin": "Administrateur",
+      "user": "Utilisateur"
+    }
+  },
+  "member": {
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Courriel",
+    "phoneNumber": "Numéro de téléphone",
+    "street": "Adresse",
+    "apartment": "Numéro de bureau/suite",
+    "city": "Ville",
+    "zipCode": "Code postal",
+    "roles": "Rôle",
+    "password": "Mot de passe",
+    "placeholders": {
+      "firstName": "Entrez le prénom",
+      "lastName": "Entrez le nom",
+      "email": "Ex : courriel@exemple.com",
+      "phoneNumber": "Ex : 123-456-7890",
+      "street": "Ex : 123 rue unetelle",
+      "apartment": "Ex : 1234",
+      "city": "Ex : Montréal",
+      "zipCode": "Ex : G1G 1G1",
+      "password": "Entrez le mot de passe",
+      "programmes": "Sélectionnez les programmes visibles pas l'usager"
+    },
+    "programmes": "Programmes visibles par l'usager"
+  },
+  "correlations": {
+    "titre": "Calcul des corrélations via un critère :",
+    "critere": "Critère",
+    "tour-admission": "Tour d'admission",
+    "statut-international": "Statut de l'étudiant",
+    "valeur-p": "Valeur P :",
+    "really-strong-influence": "très forte influence",
+    "strong-influence": "forte influence",
+    "moderate-influence": "influence modérée",
+    "weak-influence": "faible ou innexistante influence",
+    "chargement": "Chargement... (Cela peut prendre plus de 15 secondes)",
+    "valeur-reflete-prefix": "Cette valeur reflète une ",
+    "valeur-reflete-suffix": " sur la réussite du cours.",
+    "GENMELS": "(Ce calcul compare les etudiants qui ont eu une GENMELS supérieure ou égale à la médiane à ceux qui ont eu une GENMELS inférieure à la médiane)",
+    "criteres": {
+      "SN4": "SN4",
+      "TS_SN4": "TS_SN4",
+      "TS4_SN4+": "TS4_SN4+",
+      "CST5": "CST5",
+      "TS_SN5": "TS_SN5",
+      "TS5": "TS5",
+      "436": "436",
+      "514": "514",
+      "514+": "514+",
+      "526": "526",
+      "526+": "526+",
+      "536": "536",
+      "GENMELS": "GENMELS (Moyenne générale du secondaire)",
+      "tour-admission": "Tour d'admission",
+      "etudiant-international": "Étudiant international"
+    }
+  },
+  "reussite": {
+    "parSessionTitre": "Réussite des étudiants ({session})",
+    "note": "Note",
+    "nbEtudiants": "Nombre d'étudiants",
+    "etudiantsNote": "étudiant(s) avec cette note",
+    "aucuneSessionComparaison": "Aucune session à comparer",
+    "erreurComparaison": "Le paramètre comparerAvec ne respecte pas le format 'H21-A23'"
+  },
+  "global": {
+    "selectFile": "Sélectionner un fichier",
+    "anneePlaceHolder": "entrer l'année ",
+    "annee": "Année supérieure à 1999",
+    "saison": "Saison d'étude",
+    "importFiles": "Importer un fichier",
+    "free": "Gratuit(e)",
+    "menu": "Menu",
+    "title": "Titre",
+    "date": "Date",
+    "at": "à",
+    "crmId": "Id du CRM",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "fullName": "Nom complet",
+    "email": "Courriel",
+    "phoneNumber": "Numéro de téléphone",
+    "phoneExtension": "Poste",
+    "apartment": "Numéro de bureau/suite",
+    "street": "Adresse",
+    "city": "Ville",
+    "zipCode": "Code postal",
+    "roles": "Rôle",
+    "name": "Nom",
+    "active": "Actif",
+    "download": "Télécharger",
+    "add": "Ajouter",
+    "cancel": "Annuler",
+    "important": "Important",
+    "addFile": "Ajouter un document",
+    "addFiles": "Ajouter des documents",
+    "replaceFile": "Remplacer le document",
+    "replaceFiles": "Remplacer les documents",
+    "removeFile": "Retirer ce document",
+    "uploadZippedFolder-tooltip": "Si vous désirez transmettre plusieurs documents, veuillez uploader <strong>un dossier compressé.</strong>",
+    "update": "Modifier",
+    "delete": "Supprimer",
+    "deleted": "Supprimé(e)",
+    "save": "Sauvegarder",
+    "back": "Retour",
+    "yes": "Oui",
+    "no": "Non",
+    "search": "Rechercher",
+    "transfer": "Transférer",
+    "formErrorNotification": "Il y a des erreurs dans le formulaire.",
+    "quickLinks": "Liens rapides",
+    "undefined": "ND",
+    "welcome": "Bienvenue sur le Dashboard Programme!",
+    "logout": "Déconnexion",
+    "table": {
+      "of": "de",
+      "noData": "Aucune données disponibles",
+      "actions": "Actions"
+    },
+    "actions": {
+      "view": "Voir",
+      "download": "Télécharger",
+      "update": "Modifier",
+      "delete": "Supprimer"
+    }
+  },
+  "programme": {
+    "info": "Informations du programme",
+    "name": "Nom",
+    "number": "Numéro",
+    "mes-programmes": "Mes programmes",
+    "index": {
+      "afficherProgramme": "Afficher ce programme",
+      "estAdmin": "Vous êtes un.e administrateur.trice et avez accès à tous les programmes.",
+      "aucunProgramme": {
+        "titre": "Vous n'avez aucun programme",
+        "message": "Veuillez communiquer avec votre administrateur.trice pour qu'il.elle vous assigne un programme"
+      }
+    },
+    ":id": {
+      "afficherSession": "Afficher cette session",
+      "vierge": {
+        "titre": "Ce programme d'études est vierge",
+        "message": "Aucune session n'est disponible pour ce programme d'études."
+      },
+      "session": {
+        ":id": {
+          "afficherCours": "Afficher ce cours",
+          "vierge": {
+            "titre": "Cette session est vide",
+            "message": "Aucun cours n'a été recensé pour cette session et ce programme d'études."
+          }
+        }
+      }
+    }
+  },
+  "textEditorLinkPopup": {
+    "addLink": "Ajouter un lien",
+    "label": "Libellé",
+    "url": "Url",
+    "image": "Le lien sera ajouté sur l'image sélectionnée.",
+    "tooltip": "Pour éditer le lien sur une image, cliquer sur la bordure bleue autour de celle-ci."
+  },
+  "enums": {
+    "Population": {
+      "NouvelEtudiant": "Nouvel étudiant",
+      "ParcoursCollegial": "Étudiant avec un parcours collégial",
+      "International": "Étudiant international"
+    },
+    "Saison": {
+      "Hiver": "Hiver",
+      "Ete": "Été",
+      "Automne": "Automne"
+    },
+    "Sanction": {
+      "Aucune": "Aucune",
+      "DecPreuniversitaire": "DEC préuniversitaire",
+      "DecTechnique": "DEC technique"
+    },
+    "StatutImmigration": {
+      "ResidentPermanent": "Résident permanent",
+      "ResidentTemporaire": "Résident temporaire",
+      "CitoyenCanadien": "Citoyen canadien"
+    },
+    "Note": {
+      "Incomplet": "Incomplet",
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "Echec": "Échec"
+    }
+  },
+  "validation": {
+    "empty": "Veuillez renseigner ce champ.",
+    "email": "Veuillez entrer un adresse courriel valide.",
+    "min": "La valeur doit être d'au moins {min}.",
+    "max": "La valeur doit être plus petite ou égale à {max}.",
+    "fileMin": "Un minimum de {min} fichier{s} est requis.",
+    "fileMax": "Un maximum de {max} fichier{s} est permis.",
+    "fileType": "Les types de fichier permis sont: {type}",
+    "checked": "Veuillez cocher cette case.",
+    "select": "Veuillez sélectionner une option.",
+    "zipCode": "Le code postal doit respecter le format X0X X0X.",
+    "phoneNumber": "Le numéro de téléphone doit respecter le format 555-555-5555.",
+    "errorOccured": "Une erreur est survenue.",
+    "programme": {
+      "invalidNumeroProgramme": "Le numéro du programme est invalide. (Format attendu: 000.AA)",
+      "add": {
+        "success": "Le programme a été créé avec succès.",
+        "errorOccured": "Une erreur est survenue lors de la création du programme.",
+        "programmeNotFoundException": "Le programme n'a pu être trouvé.",
+        "programmeWithNumeroAlreadyExists": "Un programme avec le même numéro existe déjà.",
+        "invalidNom": "Le nom du programme est manquant.",
+        "invalidNumero": "Le numero du programme est manquant",
+        "emptyProgrammeId": "L'identifiant du programme est manquant"
+      },
+      "edit": {
+        "success": "Le programme a été modifié avec succès.",
+        "errorOccured": "Une erreur est survenue lors de la modification du programme.",
+        "programmeNotFoundException": "Le programme n'a pu être trouvé.",
+        "programmeWithNumeroAlreadyExists": "Un programme avec le même numéo existe déjà.",
+        "invalidNom": "Le nom du programme est manquant.",
+        "invalidNumero": "Le numero du programme est manquant",
+        "emptyProgrammeId": "L'identifiant du programme est manquant"
+      },
+      "importData": {
+        "success": "Les données ont été importées avec succès.",
+        "errorOccured": "Une erreur est survenue lors de l'importation des données.",
+        "invalidFile": "Le fichier est invalide.",
+        "invalidData": "Les données sont invalides.",
+        "error": "Import effectuer à {pourcentage}%. Vérifier que le fichier est valide et réessayer."
+      },
+      "delete": {
+        "confirmation": "Êtes-vous sûr de vouloir supprimer ce programme? Cette action est irréversible.",
+        "success": "Le programme a été supprimé avec succès.",
+        "errorOccured": "Une erreur est survenue lors de la suppression du programme.",
+        "programmeNotFoundException": "Le programme n'a pu être trouvé."
+      }
+    },
+    "member": {
+      "add": {
+        "success": "Le membre a été créé avec succès.",
+        "errorOccured": "Une erreur est survenue lors de la création du membre.",
+        "memberNotFoundException": "Le membre n'a pu être trouvé.",
+        "memberWithEmailAlreadyExistsException": "Un membre avec le même courriel existe déjà.",
+        "invalidFirstName": "Le prénom du membre est manquant.",
+        "invalidLastName": "Le nom du membre est manquant.",
+        "invalidEmail": "Le courriel du membre est manquant.",
+        "duplicateEmail": "Un membre avec le même courriel existe déjà.",
+        "emptyMemberId": "L'identifiant du membre est manquant",
+        "passwordRequiresDigit": "Le mot de passe doit contenir au moins un chiffre.",
+        "passwordRequiresLower": "Le mot de passe doit contenir au moins une lettre minuscule.",
+        "passwordRequiresUpper": "Le mot de passe doit contenir au moins une lettre majuscule.",
+        "passwordRequiresNonAlphanumeric": "Le mot de passe doit contenir au moins un caractère spécial.",
+        "passwordRequiresUniqueChars": "Le mot de passe doit contenir au moins 6 caractères uniques.",
+        "passwordTooShort": "Le mot de passe doit contenir au moins 8 caractères.",
+        "password" : "Le mot de passe doit contenir au moins une lettre minuscule, une lettre majuscule, un chiffre, un caractère spécial parmi @$!%*?& et avoir une longueur d'au moins 8 caractères."
+      },
+      "edit": {
+        "success": "Le membre a été modifié avec succès.",
+        "errorOccured": "Une erreur est survenue lors de la modification du membre.",
+        "memberNotFoundException": "Le membre n'a pu être trouvé.",
+        "memberWithEmailAlreadyExistsException": "Un membre avec le même courriel existe déjà.",
+        "invalidFirstName": "Le prénom du membre est manquant.",
+        "invalidLastName": "Le nom du membre est manquant.",
+        "invalidEmail": "Le courriel du membre est manquant.",
+        "duplicateEmail": "Un membre avec le même courriel existe déjà.",
+        "emptyMemberId": "L'identifiant du membre est manquant",
+        "passwordRequiresDigit": "Le mot de passe doit contenir au moins un chiffre.",
+        "passwordRequiresLower": "Le mot de passe doit contenir au moins une lettre minuscule.",
+        "passwordRequiresUpper": "Le mot de passe doit contenir au moins une lettre majuscule.",
+        "passwordRequiresNonAlphanumeric": "Le mot de passe doit contenir au moins un caractère spécial.",
+        "passwordRequiresUniqueChars": "Le mot de passe doit contenir au moins 6 caractères uniques.",
+        "passwordTooShort": "Le mot de passe doit contenir au moins 8 caractères."
+      },
+      "delete": {
+        "confirmation": "Êtes-vous sûr de vouloir supprimer ce membre? Cette action est irréversible.",
+        "success": "Le membre a été supprimé avec succès.",
+        "errorOccured": "Une erreur est survenue lors de la suppression du membre.",
+        "programmeNotFoundException": "Le membre n'a pu être trouvé.",
+        "connectedMember": "Vous tentez de modifier le membre connecté."
+        
+      }
+
+    }
+  }
+}

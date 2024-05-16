@@ -1,0 +1,161 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "436": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "514": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "526": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "536": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "Code permanent crypté": {
+            "type": "string",
+            "minLength": 64,
+            "maxLength": 64
+          },
+          "Grille": {
+            "type": "string",
+            "pattern": "^[0-9]{3}[A-Z][A-Z0-9]-2[0-9]{3}-[0-9]$"
+          },
+          "SPE": {
+            "type": "integer",
+            "enum": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          "Numéro de programme": {
+            "type": "string",
+            "pattern": "^[0-9]{3}[.][A-Z][A-Z0-9]$"
+          },
+          "Titre programme": {
+            "type": "string",
+            "minLength": 1
+          },
+          "Nombre d'heures de cours dans la session": {
+            "type": "integer"
+          },
+          "Tour d'admission": {
+            "type": "integer",
+            "enum": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          "Population": {
+            "type": "string",
+            "enum": [
+              "A",
+              "B",
+              "I"
+            ]
+          },
+          "Sanction collégiale": {
+            "type": "string",
+            "enum": [
+              "non",
+              "Non",
+              "DEC préuniversitaire",
+              "DEC technique"
+            ]
+          },
+          "GENMELS": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100
+          },
+          "SN4": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "TS_SN4": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "TS4_SN4+": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "CST5": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "TS_SN5": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "TS5": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "514+": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "526+": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "Renforcement en français": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "Étudiant international": {
+            "type": "string",
+            "enum": [
+              "CC",
+              "RP",
+              "RT"
+            ]
+          },
+          "Étudiant assujetti au R18": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "Services adaptés": {
+            "$ref": "#/definitions/OuiNon"
+          },
+          "Cours inscrits actuellement": {
+            "type": "string",
+            "pattern": "(^$)|(^([A-Z0-9]{3}[A-Z0-9]{3}[A-Z0-9]{2})(; ?[A-Z0-9]{3}[A-Z0-9]{3}[A-Z0-9]{2})*$)"
+          },
+          "Cours inscrits session passé": {
+            "type": "string",
+            "pattern": "(^$)|(aucune donnée)|(^([A-Z0-9]{3}[A-Z0-9]{3}[A-Z0-9]{2};([ABCDE]|Aucun résultat))(; ?[A-Z0-9]{3}[A-Z0-9]{3}[A-Z0-9]{2};([ABCDE]|Aucun résultat))*$)"
+          }
+        }
+      }
+    },
+    "sheetName": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "records",
+    "sheetName"
+  ],
+  "definitions": {
+    "OuiNon": {
+      "type": "string",
+      "enum": [
+        "Oui",
+        "Non",
+        "oui",
+        "non",
+        "En Cours",
+        "en cours"
+      ]
+    }
+  }
+}

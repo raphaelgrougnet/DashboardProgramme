@@ -1,0 +1,50 @@
+.tooltip {
+  border: 1px solid $color-green-light;
+  background-color: $color-green-lighter;
+  padding: 24px 40px;
+
+  &__cta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: rem(13);
+    line-height: rem(13);
+    font-weight: 700;
+    text-decoration: underline;
+    color: $color-grey-medium;
+
+    .icon {
+      flex-shrink: 0;
+      width: 20px;
+      height: 20px;
+    }
+
+    .rte {
+      margin-top: 4px;
+    }
+  }
+
+  //States -----------------------------------------------
+  &--field {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    line-height: 0;
+    margin-left: auto;
+    flex-shrink: 0;
+  }
+
+  &--form {
+    padding: 16px;
+
+    .tooltip__cta {
+      align-items: flex-start;
+      text-decoration: none;
+      font-weight: 400;
+    }
+
+    &:not(:last-child) {
+      margin-bottom: 16px;
+    }
+  }
+}
