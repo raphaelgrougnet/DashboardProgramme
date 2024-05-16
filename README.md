@@ -1,5 +1,15 @@
 # Garneau Template
 
+## Vues
+
+![image](https://github.com/raphaelgrougnet/DashboardProgramme/blob/main/images-vues/1.png)
+![image](https://github.com/raphaelgrougnet/DashboardProgramme/blob/main/images-vues/2.png)
+![image](https://github.com/raphaelgrougnet/DashboardProgramme/blob/main/images-vues/3.png)
+![image](https://github.com/raphaelgrougnet/DashboardProgramme/blob/main/images-vues/4.png)
+![image](https://github.com/raphaelgrougnet/DashboardProgramme/blob/main/images-vues/5.png)
+![image](https://github.com/raphaelgrougnet/DashboardProgramme/blob/main/images-vues/6.png)
+![image](https://github.com/raphaelgrougnet/DashboardProgramme/blob/main/images-vues/7.png)
+
 ## Stack
 
 - .NET 6
